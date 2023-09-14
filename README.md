@@ -1,11 +1,18 @@
+system
+
 c++
 xlib
 sdl
-alut (freealut)
 openal
-glut (freeglut - FAILED)
-mesa (FAILED)
+alut (freealut)
+
+glut (freeglut - FAILED) / mesa (FAILED)
 libpng
 vamos
 
 LGP
+
+c++ sfjslaus/c++
+xlib sfjslaus/xlib
+sdl sfjslaus/sdl
+openal sfjslaus/openal
