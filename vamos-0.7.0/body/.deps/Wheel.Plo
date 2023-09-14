@@ -86,10 +86,8 @@ Wheel.lo: Wheel.cc /usr/include/stdc-predef.h Wheel.h Suspension.h \
  /usr/include/c++/4.8.2/bits/stl_vector.h \
  /usr/include/c++/4.8.2/bits/stl_bvector.h \
  /usr/include/c++/4.8.2/bits/vector.tcc Tire.h Brake.h Contact_Point.h \
- ../geometry/Two_Vector.h /usr/include/GL/gl.h /usr/include/GL/glext.h \
- /usr/include/KHR/khrplatform.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
- /usr/include/stdint.h /usr/include/inttypes.h ../geometry/Conversions.h \
+ ../geometry/Two_Vector.h /usr/local/include/GL/gl.h \
+ /usr/local/include/GL/glext.h ../geometry/Conversions.h \
  ../geometry/Constants.h ../media/Ac3d.h \
  ../media/../geometry/Three_Vector.h
 
@@ -347,17 +345,9 @@ Contact_Point.h:
 
 ../geometry/Two_Vector.h:
 
-/usr/include/GL/gl.h:
+/usr/local/include/GL/gl.h:
 
-/usr/include/GL/glext.h:
-
-/usr/include/KHR/khrplatform.h:
-
-/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h:
-
-/usr/include/stdint.h:
-
-/usr/include/inttypes.h:
+/usr/local/include/GL/glext.h:
 
 ../geometry/Conversions.h:
 

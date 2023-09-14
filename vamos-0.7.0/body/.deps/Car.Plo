@@ -102,11 +102,9 @@ Car.lo: Car.cc /usr/include/stdc-predef.h Aerodynamic_Device.h Particle.h \
  /usr/include/c++/4.8.2/bits/stl_multimap.h Differential.h \
  ../geometry/Constants.h /usr/include/c++/4.8.2/utility \
  /usr/include/c++/4.8.2/bits/stl_relops.h Dashboard.h \
- ../media/Texture_Image.h /usr/include/GL/gl.h /usr/include/GL/glext.h \
- /usr/include/KHR/khrplatform.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
- /usr/include/stdint.h /usr/include/inttypes.h Fuel_Tank.h Suspension.h \
- Tire.h Wheel.h ../geometry/Numeric.h /usr/include/c++/4.8.2/algorithm \
+ ../media/Texture_Image.h /usr/local/include/GL/gl.h \
+ /usr/local/include/GL/glext.h Fuel_Tank.h Suspension.h Tire.h Wheel.h \
+ ../geometry/Numeric.h /usr/include/c++/4.8.2/algorithm \
  /usr/include/c++/4.8.2/bits/stl_algo.h /usr/include/c++/4.8.2/cstdlib \
  /usr/include/stdlib.h /usr/include/bits/waitflags.h \
  /usr/include/bits/waitstatus.h /usr/include/sys/types.h \
@@ -437,17 +435,9 @@ Dashboard.h:
 
 ../media/Texture_Image.h:
 
-/usr/include/GL/gl.h:
+/usr/local/include/GL/gl.h:
 
-/usr/include/GL/glext.h:
-
-/usr/include/KHR/khrplatform.h:
-
-/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h:
-
-/usr/include/stdint.h:
-
-/usr/include/inttypes.h:
+/usr/local/include/GL/glext.h:
 
 Fuel_Tank.h:
 

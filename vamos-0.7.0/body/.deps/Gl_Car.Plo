@@ -104,24 +104,22 @@ Gl_Car.lo: Gl_Car.cc /usr/include/stdc-predef.h Gl_Car.h Car.h \
  /usr/include/c++/4.8.2/bits/stl_relops.h ../media/Sample.h \
  ../media/../geometry/Three_Vector.h /usr/include/AL/alut.h \
  /usr/include/AL/al.h /usr/include/AL/alc.h ../media/Texture_Image.h \
- /usr/include/GL/gl.h /usr/include/GL/glext.h \
- /usr/include/KHR/khrplatform.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
- /usr/include/stdint.h /usr/include/inttypes.h /usr/include/GL/glu.h \
- Fuel_Tank.h Dashboard.h Wheel.h Suspension.h Tire.h Brake.h \
- ../media/Ac3d.h ../geometry/Numeric.h /usr/include/c++/4.8.2/algorithm \
- /usr/include/c++/4.8.2/bits/stl_algo.h /usr/include/c++/4.8.2/cstdlib \
- /usr/include/stdlib.h /usr/include/bits/waitflags.h \
- /usr/include/bits/waitstatus.h /usr/include/sys/types.h \
- /usr/include/sys/select.h /usr/include/bits/select.h \
- /usr/include/bits/sigset.h /usr/include/sys/sysmacros.h \
- /usr/include/alloca.h /usr/include/bits/stdlib-float.h \
+ /usr/local/include/GL/gl.h /usr/local/include/GL/glext.h \
+ /usr/local/include/GL/glu.h Fuel_Tank.h Dashboard.h Wheel.h Suspension.h \
+ Tire.h Brake.h ../media/Ac3d.h ../geometry/Numeric.h \
+ /usr/include/c++/4.8.2/algorithm /usr/include/c++/4.8.2/bits/stl_algo.h \
+ /usr/include/c++/4.8.2/cstdlib /usr/include/stdlib.h \
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+ /usr/include/sys/types.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h \
+ /usr/include/sys/sysmacros.h /usr/include/alloca.h \
+ /usr/include/bits/stdlib-float.h \
  /usr/include/c++/4.8.2/bits/algorithmfwd.h \
  /usr/include/c++/4.8.2/bits/stl_heap.h \
  /usr/include/c++/4.8.2/bits/stl_tempbuf.h ../geometry/Rectangle.h \
- ../geometry/../geometry/Numeric.h /usr/include/GL/glut.h \
- /usr/include/GL/freeglut_std.h /usr/include/c++/4.8.2/iomanip \
- /usr/include/c++/4.8.2/sstream /usr/include/c++/4.8.2/bits/sstream.tcc
+ ../geometry/../geometry/Numeric.h /usr/local/include/GL/glut.h \
+ /usr/include/c++/4.8.2/iomanip /usr/include/c++/4.8.2/sstream \
+ /usr/include/c++/4.8.2/bits/sstream.tcc
 
 /usr/include/stdc-predef.h:
 
@@ -447,19 +445,11 @@ Differential.h:
 
 ../media/Texture_Image.h:
 
-/usr/include/GL/gl.h:
+/usr/local/include/GL/gl.h:
 
-/usr/include/GL/glext.h:
+/usr/local/include/GL/glext.h:
 
-/usr/include/KHR/khrplatform.h:
-
-/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h:
-
-/usr/include/stdint.h:
-
-/usr/include/inttypes.h:
-
-/usr/include/GL/glu.h:
+/usr/local/include/GL/glu.h:
 
 Fuel_Tank.h:
 
@@ -513,9 +503,7 @@ Brake.h:
 
 ../geometry/../geometry/Numeric.h:
 
-/usr/include/GL/glut.h:
-
-/usr/include/GL/freeglut_std.h:
+/usr/local/include/GL/glut.h:
 
 /usr/include/c++/4.8.2/iomanip:
 

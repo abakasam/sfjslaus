@@ -74,11 +74,8 @@ Suspension.lo: Suspension.cc /usr/include/stdc-predef.h ../media/Ac3d.h \
  /usr/include/bits/huge_valf.h /usr/include/bits/huge_vall.h \
  /usr/include/bits/inf.h /usr/include/bits/nan.h \
  /usr/include/bits/mathdef.h /usr/include/bits/mathcalls.h \
- /usr/include/bits/mathinline.h /usr/include/GL/gl.h \
- /usr/include/GL/glext.h /usr/include/KHR/khrplatform.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
- /usr/include/stdint.h /usr/include/inttypes.h \
- /usr/include/c++/4.8.2/vector \
+ /usr/include/bits/mathinline.h /usr/local/include/GL/gl.h \
+ /usr/local/include/GL/glext.h /usr/include/c++/4.8.2/vector \
  /usr/include/c++/4.8.2/bits/stl_construct.h \
  /usr/include/c++/4.8.2/ext/alloc_traits.h \
  /usr/include/c++/4.8.2/bits/stl_uninitialized.h \
@@ -314,17 +311,9 @@ Suspension.lo: Suspension.cc /usr/include/stdc-predef.h ../media/Ac3d.h \
 
 /usr/include/bits/mathinline.h:
 
-/usr/include/GL/gl.h:
+/usr/local/include/GL/gl.h:
 
-/usr/include/GL/glext.h:
-
-/usr/include/KHR/khrplatform.h:
-
-/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h:
-
-/usr/include/stdint.h:
-
-/usr/include/inttypes.h:
+/usr/local/include/GL/glext.h:
 
 /usr/include/c++/4.8.2/vector:
 

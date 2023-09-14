@@ -106,12 +106,9 @@ Gl_World.lo: Gl_World.cc /usr/include/stdc-predef.h ../body/Car.h \
  ../body/../geometry/Constants.h /usr/include/c++/4.8.2/utility \
  /usr/include/c++/4.8.2/bits/stl_relops.h ../body/Fuel_Tank.h \
  ../body/Wheel.h ../body/Suspension.h ../body/Tire.h ../body/Brake.h \
- /usr/include/GL/gl.h /usr/include/GL/glext.h \
- /usr/include/KHR/khrplatform.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
- /usr/include/stdint.h /usr/include/inttypes.h ../geometry/Conversions.h \
- ../track/Track.h ../track/../geometry/Contact_Info.h \
- ../track/../geometry/Rectangle.h \
+ /usr/local/include/GL/gl.h /usr/local/include/GL/glext.h \
+ ../geometry/Conversions.h ../track/Track.h \
+ ../track/../geometry/Contact_Info.h ../track/../geometry/Rectangle.h \
  ../track/../geometry/../geometry/Numeric.h \
  ../track/../geometry/../geometry/Constants.h \
  /usr/include/c++/4.8.2/algorithm /usr/include/c++/4.8.2/bits/stl_algo.h \
@@ -129,7 +126,7 @@ Gl_World.lo: Gl_World.cc /usr/include/stdc-predef.h ../body/Car.h \
  Gl_World.h ../body/Gl_Car.h ../body/Car.h ../body/../media/Sample.h \
  ../body/../media/../geometry/Three_Vector.h /usr/include/AL/alut.h \
  /usr/include/AL/al.h /usr/include/AL/alc.h \
- ../body/../media/Texture_Image.h /usr/include/GL/glu.h \
+ ../body/../media/Texture_Image.h /usr/local/include/GL/glu.h \
  ../geometry/Three_Vector.h ../geometry/Rectangle.h ../media/XML_Parser.h \
  World.h ../geometry/Circular_Buffer.h /usr/include/c++/4.8.2/cassert \
  /usr/include/assert.h ../geometry/Material.h ../track/Strip_Track.h \
@@ -145,21 +142,22 @@ Gl_World.lo: Gl_World.cc /usr/include/stdc-predef.h ../body/Car.h \
  /usr/include/SDL/SDL_events.h /usr/include/SDL/SDL_stdinc.h \
  /usr/include/SDL/SDL_config.h /usr/include/SDL/SDL_config-x86_64.h \
  /usr/include/SDL/SDL_platform.h /usr/include/string.h \
- /usr/include/strings.h /usr/include/iconv.h \
- /usr/include/SDL/begin_code.h /usr/include/SDL/close_code.h \
- /usr/include/SDL/SDL_error.h /usr/include/SDL/SDL_active.h \
- /usr/include/SDL/SDL_keyboard.h /usr/include/SDL/SDL_keysym.h \
- /usr/include/SDL/SDL_mouse.h /usr/include/SDL/SDL_video.h \
- /usr/include/SDL/SDL_rwops.h /usr/include/SDL/SDL_joystick.h \
- /usr/include/SDL/SDL_quit.h Sounds.h ../media/Sample.h \
- Interactive_Driver.h Driver.h /usr/include/SDL/SDL.h \
+ /usr/include/strings.h /usr/include/inttypes.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
+ /usr/include/stdint.h /usr/include/iconv.h /usr/include/SDL/begin_code.h \
+ /usr/include/SDL/close_code.h /usr/include/SDL/SDL_error.h \
+ /usr/include/SDL/SDL_active.h /usr/include/SDL/SDL_keyboard.h \
+ /usr/include/SDL/SDL_keysym.h /usr/include/SDL/SDL_mouse.h \
+ /usr/include/SDL/SDL_video.h /usr/include/SDL/SDL_rwops.h \
+ /usr/include/SDL/SDL_joystick.h /usr/include/SDL/SDL_quit.h Sounds.h \
+ ../media/Sample.h Interactive_Driver.h Driver.h /usr/include/SDL/SDL.h \
  /usr/include/SDL/SDL_main.h /usr/include/SDL/SDL_audio.h \
  /usr/include/SDL/SDL_endian.h /usr/include/SDL/SDL_mutex.h \
  /usr/include/SDL/SDL_thread.h /usr/include/SDL/SDL_cdrom.h \
  /usr/include/SDL/SDL_cpuinfo.h /usr/include/SDL/SDL_events.h \
  /usr/include/SDL/SDL_loadso.h /usr/include/SDL/SDL_timer.h \
- /usr/include/SDL/SDL_version.h /usr/include/GL/glut.h \
- /usr/include/GL/freeglut_std.h /usr/include/c++/4.8.2/iomanip
+ /usr/include/SDL/SDL_version.h /usr/local/include/GL/glut.h \
+ /usr/include/c++/4.8.2/iomanip
 
 /usr/include/stdc-predef.h:
 
@@ -481,17 +479,9 @@ Gl_World.lo: Gl_World.cc /usr/include/stdc-predef.h ../body/Car.h \
 
 ../body/Brake.h:
 
-/usr/include/GL/gl.h:
+/usr/local/include/GL/gl.h:
 
-/usr/include/GL/glext.h:
-
-/usr/include/KHR/khrplatform.h:
-
-/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h:
-
-/usr/include/stdint.h:
-
-/usr/include/inttypes.h:
+/usr/local/include/GL/glext.h:
 
 ../geometry/Conversions.h:
 
@@ -561,7 +551,7 @@ Gl_World.h:
 
 ../body/../media/Texture_Image.h:
 
-/usr/include/GL/glu.h:
+/usr/local/include/GL/glu.h:
 
 ../geometry/Three_Vector.h:
 
@@ -631,6 +621,12 @@ Controls.h:
 
 /usr/include/strings.h:
 
+/usr/include/inttypes.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h:
+
+/usr/include/stdint.h:
+
 /usr/include/iconv.h:
 
 /usr/include/SDL/begin_code.h:
@@ -687,8 +683,6 @@ Driver.h:
 
 /usr/include/SDL/SDL_version.h:
 
-/usr/include/GL/glut.h:
-
-/usr/include/GL/freeglut_std.h:
+/usr/local/include/GL/glut.h:
 
 /usr/include/c++/4.8.2/iomanip:

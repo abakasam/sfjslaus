@@ -109,10 +109,8 @@ Strip_Track.lo: Strip_Track.cc /usr/include/stdc-predef.h Strip_Track.h \
  Road_Segment.h ../geometry/Conversions.h ../geometry/Constants.h \
  ../geometry/Linear_Interpolator.h /usr/include/c++/4.8.2/complex \
  /usr/include/c++/4.8.2/sstream /usr/include/c++/4.8.2/bits/sstream.tcc \
- /usr/include/GL/glu.h /usr/include/GL/gl.h /usr/include/GL/glext.h \
- /usr/include/KHR/khrplatform.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
- /usr/include/stdint.h /usr/include/inttypes.h /usr/include/c++/4.8.2/map \
+ /usr/local/include/GL/glu.h /usr/local/include/GL/gl.h \
+ /usr/local/include/GL/glext.h /usr/include/c++/4.8.2/map \
  /usr/include/c++/4.8.2/bits/stl_tree.h \
  /usr/include/c++/4.8.2/bits/stl_map.h \
  /usr/include/c++/4.8.2/bits/stl_multimap.h ../geometry/Numeric.h \
@@ -449,19 +447,11 @@ Road_Segment.h:
 
 /usr/include/c++/4.8.2/bits/sstream.tcc:
 
-/usr/include/GL/glu.h:
+/usr/local/include/GL/glu.h:
 
-/usr/include/GL/gl.h:
+/usr/local/include/GL/gl.h:
 
-/usr/include/GL/glext.h:
-
-/usr/include/KHR/khrplatform.h:
-
-/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h:
-
-/usr/include/stdint.h:
-
-/usr/include/inttypes.h:
+/usr/local/include/GL/glext.h:
 
 /usr/include/c++/4.8.2/map:
 

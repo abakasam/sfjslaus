@@ -1,15 +1,11 @@
 Dashboard.lo: Dashboard.cc /usr/include/stdc-predef.h Dashboard.h \
- ../media/Texture_Image.h /usr/include/GL/gl.h /usr/include/GL/glext.h \
- /usr/include/KHR/khrplatform.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
- /usr/include/stdint.h /usr/include/features.h /usr/include/sys/cdefs.h \
- /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
- /usr/include/gnu/stubs-64.h /usr/include/bits/wchar.h \
- /usr/include/inttypes.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stddef.h \
- /usr/include/c++/4.8.2/string \
+ ../media/Texture_Image.h /usr/local/include/GL/gl.h \
+ /usr/local/include/GL/glext.h /usr/include/c++/4.8.2/string \
  /usr/include/c++/4.8.2/x86_64-redhat-linux/bits/c++config.h \
+ /usr/include/bits/wordsize.h \
  /usr/include/c++/4.8.2/x86_64-redhat-linux/bits/os_defines.h \
+ /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
  /usr/include/c++/4.8.2/x86_64-redhat-linux/bits/cpu_defines.h \
  /usr/include/c++/4.8.2/bits/stringfwd.h \
  /usr/include/c++/4.8.2/bits/memoryfwd.h \
@@ -30,6 +26,8 @@ Dashboard.lo: Dashboard.cc /usr/include/stdc-predef.h Dashboard.h \
  /usr/include/c++/4.8.2/bits/postypes.h /usr/include/c++/4.8.2/cwchar \
  /usr/include/wchar.h /usr/include/stdio.h \
  /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdarg.h \
+ /usr/include/bits/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stddef.h \
  /usr/include/xlocale.h /usr/include/c++/4.8.2/bits/allocator.h \
  /usr/include/c++/4.8.2/x86_64-redhat-linux/bits/c++allocator.h \
  /usr/include/c++/4.8.2/ext/new_allocator.h /usr/include/c++/4.8.2/new \
@@ -107,37 +105,25 @@ Dashboard.h:
 
 ../media/Texture_Image.h:
 
-/usr/include/GL/gl.h:
+/usr/local/include/GL/gl.h:
 
-/usr/include/GL/glext.h:
-
-/usr/include/KHR/khrplatform.h:
-
-/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h:
-
-/usr/include/stdint.h:
-
-/usr/include/features.h:
-
-/usr/include/sys/cdefs.h:
-
-/usr/include/bits/wordsize.h:
-
-/usr/include/gnu/stubs.h:
-
-/usr/include/gnu/stubs-64.h:
-
-/usr/include/bits/wchar.h:
-
-/usr/include/inttypes.h:
-
-/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stddef.h:
+/usr/local/include/GL/glext.h:
 
 /usr/include/c++/4.8.2/string:
 
 /usr/include/c++/4.8.2/x86_64-redhat-linux/bits/c++config.h:
 
+/usr/include/bits/wordsize.h:
+
 /usr/include/c++/4.8.2/x86_64-redhat-linux/bits/os_defines.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
 
 /usr/include/c++/4.8.2/x86_64-redhat-linux/bits/cpu_defines.h:
 
@@ -182,6 +168,10 @@ Dashboard.h:
 /usr/include/stdio.h:
 
 /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdarg.h:
+
+/usr/include/bits/wchar.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stddef.h:
 
 /usr/include/xlocale.h:
 

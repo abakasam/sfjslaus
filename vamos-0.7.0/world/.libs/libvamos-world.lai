@@ -14,7 +14,7 @@ library_names='libvamos-world.so.0.0.0 libvamos-world.so.0 libvamos-world.so'
 old_library='libvamos-world.a'
 
 # Libraries that this one depends upon.
-dependency_libs=' -L/usr/lib/boost -ldl -lalut -lopenal -lSDL'
+dependency_libs=' -L/usr/lib/boost -lpng /usr/local/lib/libglut.la -lXext -lXi -lX11 /usr/local/lib/libGLU.la /usr/local/lib/libGL.la -lpthread -ldl -lalut -lopenal -lSDL'
 
 # Version information for libvamos-world.
 current=0

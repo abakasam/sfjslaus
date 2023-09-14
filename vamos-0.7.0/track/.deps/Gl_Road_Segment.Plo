@@ -75,11 +75,8 @@ Gl_Road_Segment.lo: Gl_Road_Segment.cc /usr/include/stdc-predef.h \
  /usr/include/bits/huge_valf.h /usr/include/bits/huge_vall.h \
  /usr/include/bits/inf.h /usr/include/bits/nan.h \
  /usr/include/bits/mathdef.h /usr/include/bits/mathcalls.h \
- /usr/include/bits/mathinline.h /usr/include/GL/gl.h \
- /usr/include/GL/glext.h /usr/include/KHR/khrplatform.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
- /usr/include/stdint.h /usr/include/inttypes.h \
- /usr/include/c++/4.8.2/vector \
+ /usr/include/bits/mathinline.h /usr/local/include/GL/gl.h \
+ /usr/local/include/GL/glext.h /usr/include/c++/4.8.2/vector \
  /usr/include/c++/4.8.2/bits/stl_construct.h \
  /usr/include/c++/4.8.2/ext/alloc_traits.h \
  /usr/include/c++/4.8.2/bits/stl_uninitialized.h \
@@ -108,9 +105,9 @@ Gl_Road_Segment.lo: Gl_Road_Segment.cc /usr/include/stdc-predef.h \
  ../geometry/Three_Vector.h ../geometry/Two_Vector.h \
  /usr/include/c++/4.8.2/complex /usr/include/c++/4.8.2/sstream \
  /usr/include/c++/4.8.2/bits/sstream.tcc ../geometry/Material.h \
- ../geometry/../geometry/Three_Vector.h /usr/include/GL/glu.h \
- /usr/include/GL/glut.h /usr/include/GL/freeglut_std.h \
- /usr/include/c++/4.8.2/cassert /usr/include/assert.h
+ ../geometry/../geometry/Three_Vector.h /usr/local/include/GL/glu.h \
+ /usr/local/include/GL/glut.h /usr/include/c++/4.8.2/cassert \
+ /usr/include/assert.h
 
 /usr/include/stdc-predef.h:
 
@@ -322,17 +319,9 @@ Gl_Road_Segment.lo: Gl_Road_Segment.cc /usr/include/stdc-predef.h \
 
 /usr/include/bits/mathinline.h:
 
-/usr/include/GL/gl.h:
+/usr/local/include/GL/gl.h:
 
-/usr/include/GL/glext.h:
-
-/usr/include/KHR/khrplatform.h:
-
-/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h:
-
-/usr/include/stdint.h:
-
-/usr/include/inttypes.h:
+/usr/local/include/GL/glext.h:
 
 /usr/include/c++/4.8.2/vector:
 
@@ -434,11 +423,9 @@ Road_Segment.h:
 
 ../geometry/../geometry/Three_Vector.h:
 
-/usr/include/GL/glu.h:
+/usr/local/include/GL/glu.h:
 
-/usr/include/GL/glut.h:
-
-/usr/include/GL/freeglut_std.h:
+/usr/local/include/GL/glut.h:
 
 /usr/include/c++/4.8.2/cassert:
 
