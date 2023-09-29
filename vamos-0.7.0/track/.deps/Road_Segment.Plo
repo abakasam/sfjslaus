@@ -90,11 +90,8 @@ Road_Segment.lo: Road_Segment.cc /usr/include/stdc-predef.h \
  /usr/include/c++/4.8.2/bits/stl_tempbuf.h \
  /usr/include/c++/4.8.2/bits/stl_construct.h \
  /usr/include/c++/4.8.2/ext/alloc_traits.h ../media/Texture_Image.h \
- /usr/include/GL/gl.h /usr/include/GL/glext.h \
- /usr/include/KHR/khrplatform.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
- /usr/include/stdint.h /usr/include/inttypes.h /usr/include/c++/4.8.2/map \
- /usr/include/c++/4.8.2/bits/stl_tree.h \
+ /usr/local/include/GL/gl.h /usr/local/include/GL/glext.h \
+ /usr/include/c++/4.8.2/map /usr/include/c++/4.8.2/bits/stl_tree.h \
  /usr/include/c++/4.8.2/bits/stl_map.h \
  /usr/include/c++/4.8.2/bits/stl_multimap.h Road_Segment.h \
  ../geometry/Conversions.h ../geometry/Linear_Interpolator.h \
@@ -368,17 +365,9 @@ Road_Segment.lo: Road_Segment.cc /usr/include/stdc-predef.h \
 
 ../media/Texture_Image.h:
 
-/usr/include/GL/gl.h:
+/usr/local/include/GL/gl.h:
 
-/usr/include/GL/glext.h:
-
-/usr/include/KHR/khrplatform.h:
-
-/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h:
-
-/usr/include/stdint.h:
-
-/usr/include/inttypes.h:
+/usr/local/include/GL/glext.h:
 
 /usr/include/c++/4.8.2/map:
 

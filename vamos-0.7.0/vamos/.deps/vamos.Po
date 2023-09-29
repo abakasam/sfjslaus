@@ -17,17 +17,10 @@ vamos.o: vamos.cc /usr/include/stdc-predef.h \
  /usr/include/bits/sigset.h /usr/include/bits/time.h \
  /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
  /usr/include/alloca.h /usr/include/bits/stdlib-float.h \
- /usr/include/getopt.h /usr/include/GL/glx.h /usr/include/X11/Xlib.h \
- /usr/include/X11/X.h /usr/include/X11/Xfuncproto.h \
- /usr/include/X11/Xosdefs.h /usr/include/X11/Xutil.h \
- /usr/include/X11/keysym.h /usr/include/X11/keysymdef.h \
+ /usr/include/getopt.h /usr/local/include/GL/glut.h \
  /usr/local/include/GL/gl.h /usr/local/include/GL/glext.h \
- /usr/include/GL/glxext.h /usr/include/inttypes.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
- /usr/include/stdint.h /usr/include/bits/wchar.h \
- /usr/local/include/GL/glut.h /usr/local/include/GL/glu.h \
- ../body/Gl_Car.h ../body/Car.h ../body/../geometry/Contact_Info.h \
- ../body/../geometry/Material.h \
+ /usr/local/include/GL/glu.h ../body/Gl_Car.h ../body/Car.h \
+ ../body/../geometry/Contact_Info.h ../body/../geometry/Material.h \
  ../body/../geometry/../geometry/Three_Vector.h \
  /usr/include/c++/4.8.2/iostream /usr/include/c++/4.8.2/ostream \
  /usr/include/c++/4.8.2/ios /usr/include/c++/4.8.2/iosfwd \
@@ -36,7 +29,7 @@ vamos.o: vamos.cc /usr/include/stdc-predef.h \
  /usr/include/c++/4.8.2/bits/postypes.h /usr/include/c++/4.8.2/cwchar \
  /usr/include/wchar.h /usr/include/stdio.h \
  /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdarg.h \
- /usr/include/c++/4.8.2/exception \
+ /usr/include/bits/wchar.h /usr/include/c++/4.8.2/exception \
  /usr/include/c++/4.8.2/bits/atomic_lockfree_defines.h \
  /usr/include/c++/4.8.2/bits/char_traits.h \
  /usr/include/c++/4.8.2/bits/stl_algobase.h \
@@ -153,13 +146,15 @@ vamos.o: vamos.cc /usr/include/stdc-predef.h \
  ../world/../geometry/Constants.h /usr/include/SDL/SDL_events.h \
  /usr/include/SDL/SDL_stdinc.h /usr/include/SDL/SDL_config.h \
  /usr/include/SDL/SDL_config-x86_64.h /usr/include/SDL/SDL_platform.h \
- /usr/include/string.h /usr/include/strings.h /usr/include/iconv.h \
- /usr/include/SDL/begin_code.h /usr/include/SDL/close_code.h \
- /usr/include/SDL/SDL_error.h /usr/include/SDL/SDL_active.h \
- /usr/include/SDL/SDL_keyboard.h /usr/include/SDL/SDL_keysym.h \
- /usr/include/SDL/SDL_mouse.h /usr/include/SDL/SDL_video.h \
- /usr/include/SDL/SDL_rwops.h /usr/include/SDL/SDL_joystick.h \
- /usr/include/SDL/SDL_quit.h ../world/Sounds.h ../world/../media/Sample.h \
+ /usr/include/string.h /usr/include/strings.h /usr/include/inttypes.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
+ /usr/include/stdint.h /usr/include/iconv.h /usr/include/SDL/begin_code.h \
+ /usr/include/SDL/close_code.h /usr/include/SDL/SDL_error.h \
+ /usr/include/SDL/SDL_active.h /usr/include/SDL/SDL_keyboard.h \
+ /usr/include/SDL/SDL_keysym.h /usr/include/SDL/SDL_mouse.h \
+ /usr/include/SDL/SDL_video.h /usr/include/SDL/SDL_rwops.h \
+ /usr/include/SDL/SDL_joystick.h /usr/include/SDL/SDL_quit.h \
+ ../world/Sounds.h ../world/../media/Sample.h \
  ../world/Interactive_Driver.h ../world/Driver.h ../world/Robot_Driver.h \
  ../world/../geometry/Linear_Interpolator.h ../world/../geometry/PID.h
 
@@ -227,37 +222,11 @@ vamos.o: vamos.cc /usr/include/stdc-predef.h \
 
 /usr/include/getopt.h:
 
-/usr/include/GL/glx.h:
-
-/usr/include/X11/Xlib.h:
-
-/usr/include/X11/X.h:
-
-/usr/include/X11/Xfuncproto.h:
-
-/usr/include/X11/Xosdefs.h:
-
-/usr/include/X11/Xutil.h:
-
-/usr/include/X11/keysym.h:
-
-/usr/include/X11/keysymdef.h:
+/usr/local/include/GL/glut.h:
 
 /usr/local/include/GL/gl.h:
 
 /usr/local/include/GL/glext.h:
-
-/usr/include/GL/glxext.h:
-
-/usr/include/inttypes.h:
-
-/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h:
-
-/usr/include/stdint.h:
-
-/usr/include/bits/wchar.h:
-
-/usr/local/include/GL/glut.h:
 
 /usr/local/include/GL/glu.h:
 
@@ -292,6 +261,8 @@ vamos.o: vamos.cc /usr/include/stdc-predef.h \
 /usr/include/stdio.h:
 
 /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdarg.h:
+
+/usr/include/bits/wchar.h:
 
 /usr/include/c++/4.8.2/exception:
 
@@ -650,6 +621,12 @@ vamos.o: vamos.cc /usr/include/stdc-predef.h \
 /usr/include/string.h:
 
 /usr/include/strings.h:
+
+/usr/include/inttypes.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h:
+
+/usr/include/stdint.h:
 
 /usr/include/iconv.h:
 

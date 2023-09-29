@@ -130,11 +130,8 @@ World.lo: World.cc /usr/include/stdc-predef.h World.h ../body/Car.h \
  ../track/../geometry/Linear_Interpolator.h \
  ../track/../geometry/Interpolator.h ../track/../geometry/Two_Vector.h \
  /usr/include/c++/4.8.2/complex /usr/include/c++/4.8.2/sstream \
- /usr/include/c++/4.8.2/bits/sstream.tcc /usr/include/GL/glu.h \
- /usr/include/GL/gl.h /usr/include/GL/glext.h \
- /usr/include/KHR/khrplatform.h \
- /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h \
- /usr/include/stdint.h /usr/include/inttypes.h Atmosphere.h \
+ /usr/include/c++/4.8.2/bits/sstream.tcc /usr/local/include/GL/glu.h \
+ /usr/local/include/GL/gl.h /usr/local/include/GL/glext.h Atmosphere.h \
  ../track/Road_Segment.h Driver.h Controls.h ../geometry/Constants.h \
  ../body/Wheel.h ../body/Suspension.h ../body/Tire.h ../body/Brake.h \
  /usr/include/c++/4.8.2/limits
@@ -537,19 +534,11 @@ World.h:
 
 /usr/include/c++/4.8.2/bits/sstream.tcc:
 
-/usr/include/GL/glu.h:
+/usr/local/include/GL/glu.h:
 
-/usr/include/GL/gl.h:
+/usr/local/include/GL/gl.h:
 
-/usr/include/GL/glext.h:
-
-/usr/include/KHR/khrplatform.h:
-
-/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stdint.h:
-
-/usr/include/stdint.h:
-
-/usr/include/inttypes.h:
+/usr/local/include/GL/glext.h:
 
 Atmosphere.h:
 

@@ -18,8 +18,6 @@
 #include <cstdlib>
 #include <getopt.h>
 
-#include <GL/glxext.h>
-#include <GL/glx.h>
 #include <GL/glut.h>
 
 #include "../body/Gl_Car.h"
