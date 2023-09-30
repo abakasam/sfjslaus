@@ -1,9 +1,37 @@
+
+centos 7.2.1511
+  c++
+  xlib
+  sdl
+  openal
+  freealut
+  freeglut
+  libpng
+  mesa
+  mesa-*
+  
+    https://www.youtube.com/watch?v=XpBGwZNyUh0&list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-&index=1
+    opengl install
+    https://en.wikipedia.org/wiki/OpenGL
+
+
+
+
+
+
+
+
+
+mesa
+freeglut
+
 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
 
 yum search
 yum install <package>--downloadonly downloaddir="."
 
 rpm -ivh *.rpm --nodeps --replacefiles
+rpm -ivh *.rpm --nodeps --replacefiles --force
 
 centos 7.2.1511
 c++

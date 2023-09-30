@@ -21,7 +21,6 @@
 #define PARAMETER_H
 
 #include <vector>
-#include <stddef.h>
 
 /// A container for numbers passed from the command line.
 namespace Vamos_Geometry

@@ -1,0 +1,1271 @@
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+ * base: nyc.mirrors.clouvider.net
+ * epel: epel.mirror.constant.com
+ * extras: mirrors.tripadvisor.com
+ * updates: mirrors.mit.edu
+=============================== N/S matched: gl ================================
+GtkAda-gl.x86_64 : GtkAda binding to OpenGL
+GtkAda3-gl.x86_64 : GTKada 3 binding to OpenGL
+ModemManager-glib.i686 : Libraries for adding ModemManager support to
+                       : applications that use glib.
+ModemManager-glib.x86_64 : Libraries for adding ModemManager support to
+                         : applications that use glib.
+ModemManager-glib-devel.i686 : Libraries and headers for adding ModemManager
+                             : support to applications that use glib.
+ModemManager-glib-devel.x86_64 : Libraries and headers for adding ModemManager
+                               : support to applications that use glib.
+PackageKit-glib.i686 : GLib libraries for accessing PackageKit
+PackageKit-glib.x86_64 : GLib libraries for accessing PackageKit
+PackageKit-glib-devel.i686 : GLib Libraries and headers for PackageKit
+PackageKit-glib-devel.x86_64 : GLib Libraries and headers for PackageKit
+PyOpenGL.noarch : Python bindings for OpenGL
+PyOpenGL-Tk.noarch : PyOpenGL OpenGL Tk widget
+VirtualGL.x86_64 : A toolkit for displaying OpenGL applications to thin clients
+VirtualGL-devel.x86_64 : Development headers and libraries for VirtualGL
+alglib-devel.x86_64 : Development files for alglib
+alglib-doc.noarch : API documentation for alglib
+alleggl.x86_64 : OpenGL support library for Allegro
+alleggl-devel.x86_64 : Development files for alleggl
+artwiz-aleczapka-glisp-fonts.noarch : Glisp fonts in Artwiz family
+avahi-glib.i686 : Glib libraries for avahi
+avahi-glib.x86_64 : Glib libraries for avahi
+avahi-glib-devel.i686 : Libraries and header files for avahi glib development
+avahi-glib-devel.x86_64 : Libraries and header files for avahi glib development
+bpg-glaho-fonts.noarch : Glaho family of BPG Georgian fonts
+centos-release-gluster-legacy.noarch : Disable unmaintained Gluster repositories
+                                     : from the CentOS Storage SIG
+centos-release-gluster40.x86_64 : Gluster 4.0 (Short Term Stable) packages from
+                                : the CentOS Storage SIG repository
+centos-release-gluster41.noarch : Gluster 4.1 (Long Term Stable) packages from
+                                : the CentOS Storage SIG repository
+centos-release-gluster5.noarch : Gluster 5 packages from the CentOS Storage SIG
+                               : repository
+centos-release-gluster6.noarch : Gluster 6 packages from the CentOS Storage SIG
+                               : repository
+centos-release-gluster7.noarch : Gluster 7 packages from the CentOS Storage SIG
+                               : repository
+centos-release-gluster8.noarch : Gluster 8 packages from the CentOS Storage SIG
+                               : repository
+centos-release-gluster9.noarch : Gluster 9 packages from the CentOS Storage SIG
+                               : repository
+cglib-javadoc.noarch : Javadoc for cglib
+cogl-devel.i686 : cogl development environment
+cogl-devel.x86_64 : cogl development environment
+cogl-doc.noarch : Documentation for cogl
+cogl-tests.x86_64 : Tests for cogl
+compat-glade315.i686 : Compat package with glade 3.15 libraries
+compat-glade315.x86_64 : Compat package with glade 3.15 libraries
+compat-glew.i686 : The OpenGL Extension Wrangler Library
+compat-glew.x86_64 : The OpenGL Extension Wrangler Library
+compat-libcogl-pango12.i686 : Compat package with cogl 1.14 libraries
+compat-libcogl-pango12.x86_64 : Compat package with cogl 1.14 libraries
+compat-libcogl12.i686 : Compat package with cogl 1.14 libraries
+compat-libcogl12.x86_64 : Compat package with cogl 1.14 libraries
+compat-poppler022-glib.i686 : Glib wrapper for poppler
+compat-poppler022-glib.x86_64 : Glib wrapper for poppler
+compat-wxGTK3-gtk2-gl.x86_64 : OpenGL add-on for the wxWidgets library
+dbus-glib.i686 : GLib bindings for D-Bus
+dbus-glib.x86_64 : GLib bindings for D-Bus
+dbus-glib-devel.i686 : Libraries and headers for the D-Bus GLib bindings
+dbus-glib-devel.x86_64 : Libraries and headers for the D-Bus GLib bindings
+dbus-sharp-glib.x86_64 : C# bindings for D-Bus glib main loop integration
+drupal7-google_analytics.noarch : Adds the Google Analytics web statistics
+                                : tracking system to your website
+egl-utils.x86_64 : EGL utilities
+egl-wayland.x86_64 : Wayland EGL External Platform library
+egl-wayland-devel.x86_64 : Wayland EGL External Platform library development
+                         : package
+eglexternalplatform-devel.noarch : Development files for eglexternalplatform
+fftw-libs-single.i686 : FFTW library, single precision
+fftw-libs-single.x86_64 : FFTW library, single precision
+freeglut.i686 : A freely licensed alternative to the GLUT library
+freeglut.x86_64 : A freely licensed alternative to the GLUT library
+freeglut-devel.i686 : Freeglut developmental libraries and header files
+freeglut-devel.x86_64 : Freeglut developmental libraries and header files
+ftgl.x86_64 : OpenGL frontend to Freetype 2
+ftgl-devel.x86_64 : Development files for ftgl
+ftgl-docs.x86_64 : Documentation for ftgl
+ganglia-devel.x86_64 : Ganglia Library
+ganglia-gmetad.x86_64 : Ganglia Metadata collection daemon
+ganglia-gmond.x86_64 : Ganglia Monitoring daemon
+ganglia-web.x86_64 : Ganglia Web Frontend
+gegl-devel.i686 : Headers for developing programs that will use gegl
+gegl-devel.x86_64 : Headers for developing programs that will use gegl
+geocode-glib-devel.i686 : Development files for geocode-glib
+geocode-glib-devel.x86_64 : Development files for geocode-glib
+ghc-GLURaw.x86_64 : Haskell GLURaw library
+ghc-GLURaw-devel.x86_64 : Haskell GLURaw library development files
+ghc-GLUT.x86_64 : Haskell GLUT library
+ghc-GLUT-devel.x86_64 : Haskell GLUT library development files
+ghc-OpenGL.x86_64 : Haskell OpenGL library
+ghc-OpenGL-devel.x86_64 : Haskell OpenGL library development files
+ghc-OpenGLRaw.x86_64 : Haskell OpenGLRaw library
+ghc-OpenGLRaw-devel.x86_64 : Haskell OpenGLRaw library development files
+ghc-fgl.x86_64 : Haskell fgl library
+ghc-fgl-devel.x86_64 : Haskell fgl library development files
+ghc-glib.x86_64 : Binding to the GLIB library for Gtk2Hs
+ghc-glib-devel.x86_64 : Haskell glib library development files
+gl-manpages.noarch : OpenGL manpages
+gl2ps.x86_64 : An OpenGL to PostScript printing library
+gl2ps-devel.x86_64 : Header files for GL2PS library
+glade-devel.i686 : Development files for glade
+glade-devel.x86_64 : Development files for glade
+glade-libs.i686 : Widget library for Glade UI designer
+glade-libs.x86_64 : Widget library for Glade UI designer
+glade3-libgladeui.i686 : Widget library for Glade UI designer
+glade3-libgladeui.x86_64 : Widget library for Glade UI designer
+glade3-libgladeui-devel.i686 : Development files for glade3-libgladeui
+glade3-libgladeui-devel.x86_64 : Development files for glade3-libgladeui
+glassfish-dtd-parser-javadoc.noarch : Javadoc for glassfish-dtd-parser
+glassfish-el-api-javadoc.noarch : Javadoc for glassfish-el-api
+glassfish-el-javadoc.noarch : Javadoc for glassfish-el
+glassfish-fastinfoset-javadoc.noarch : Javadoc for glassfish-fastinfoset
+glassfish-jaxb-javadoc.noarch : Javadocs for glassfish-jaxb
+glassfish-jsp.noarch : Glassfish J2EE JSP API implementation
+glassfish-jsp-api.noarch : Glassfish J2EE JSP API specification
+glassfish-jsp-api-javadoc.noarch : API documentation for glassfish-jsp-api
+glassfish-jsp-javadoc.noarch : API documentation for glassfish-jsp
+glassfish-saaj-javadoc.noarch : Javadoc for glassfish-saaj
+gle-doc.noarch : User documentation for GLE
+glew.x86_64 : The OpenGL Extension Wrangler Library
+glew-devel.i686 : Development files for glew
+glew-devel.x86_64 : Development files for glew
+glib-devel.x86_64 : Libraries and header files for glib development
+glib-networking.i686 : Networking support for GLib
+glib-networking.x86_64 : Networking support for GLib
+glib-networking-tests.x86_64 : Tests for the glib-networking package
+glib2-static.i686 : glib static
+glib2-static.x86_64 : glib static
+glib2-tests.x86_64 : Tests for the glib2 package
+glibc-common.x86_64 : Common binaries and locale data for glibc
+glibmm24.i686 : C++ interface for the GLib library
+glibmm24.x86_64 : C++ interface for the GLib library
+glibmm24-devel.i686 : Headers for developing programs that will use glibmm24
+glibmm24-devel.x86_64 : Headers for developing programs that will use glibmm24
+glibmm24-doc.noarch : Documentation for glibmm24, includes full API docs
+glide-unit-test-devel.x86_64 : Unit tests for glide package
+glite-jobid-api-c.x86_64 : C library handling gLite jobid
+glite-jobid-api-c-devel.x86_64 : Development files for gLite jobid C library
+glite-jobid-api-cpp-devel.noarch : C++ API handling gLite jobid
+glite-jobid-api-java.noarch : JAVA implementation of handling gLite jobid
+glite-jobid-api-java-javadoc.noarch : Java API documentation for
+                                    : glite-jobid-api-java
+glite-lb-client.x86_64 : gLite Logging and Bookkeeping client library
+glite-lb-client-devel.x86_64 : Development files for gLite L&B client library
+glite-lb-client-java-javadoc.noarch : Java API documentation for
+                                    : glite-lb-client-java
+glite-lb-client-progs.x86_64 : gLite L&B client programs and examples
+glite-lb-common.x86_64 : gLite Logging and Bookkeeping common headers and
+                       : library
+glite-lb-common-devel.x86_64 : Development files for gLite L&B common library
+glite-lb-logger.x86_64 : gLite Logging and Bookkeeping local-logger and
+                       : inter-loggers
+glite-lb-logger-devel.x86_64 : Development files for gLite L&B logger
+glite-lb-server.x86_64 : gLite Logging and Bookkeeping server
+glite-lb-state-machine.x86_64 : gLite Logging and Bookkeeping state machine
+glite-lb-state-machine-devel.x86_64 : Development files for gLite L&B state
+                                    : machine
+glite-lb-utils.x86_64 : gLite Logging and Bookkeeping auxiliary utilities
+glite-lb-ws-interface.noarch : gLite Logging and Bookkeeping web service
+                             : interface
+glite-lbjp-common-db-devel.x86_64 : Development files for gLite L&B/JP common DB
+                                  : module
+glite-lbjp-common-gsoap-plugin.x86_64 : Plugin for gSoap to use
+     ...: glite-security-gss as the communication layer
+glite-lbjp-common-gsoap-plugin-devel.x86_64 : Development files for gLite
+                                            : gsoap-plugin
+glite-lbjp-common-gss.x86_64 : Wrapper of Globus GSS/SSL implementation used by
+                             : gLite LB and JP
+glite-lbjp-common-gss-devel.x86_64 : Development files for gLite GSS library
+glite-lbjp-common-jp-interface-devel.x86_64 : Development files for gLite L&B/JP
+                                            : interface library
+glite-lbjp-common-log.x86_64 : Definitions of glite common logging formats for
+                             : LB and JP
+glite-lbjp-common-log-devel.x86_64 : Development files for gLite L&B/JP common
+                                   : log module
+glite-lbjp-common-maildir.x86_64 : Single-purpose implementation of maildir-like
+                                 : queue
+glite-lbjp-common-maildir-devel.x86_64 : Development files for gLite L&B/JP
+                                       : common maildir library
+glite-lbjp-common-server-bones-devel.x86_64 : Development files for gLite L&B/JP
+                                            : common server-bones
+glite-lbjp-common-trio-devel.x86_64 : Development files for gLite L&B/JP common
+                                    : trio library
+glite-px-proxyrenewal.x86_64 : gLite proxyrenewal renews existing proxy
+                             : certificates for grid users
+glite-px-proxyrenewal-devel.x86_64 : Development files for gLite proxyrenewal
+                                   : library
+glite-px-proxyrenewal-libs.x86_64 : C/C++ library for gLite proxyrenewal
+glm-doc.noarch : Documentation for glm-devel
+global-ctags.x86_64 : Integration of Exuberant Ctags and Pygments with GLOBAL
+globus-authz.x86_64 : Grid Community Toolkit - Globus authz library
+globus-authz-callout-error.x86_64 : Grid Community Toolkit - Globus authz error
+                                  : library
+globus-authz-callout-error-devel.x86_64 : Grid Community Toolkit - Globus authz
+                                        : error library Development Files
+globus-authz-callout-error-doc.noarch : Grid Community Toolkit - Globus authz
+                                      : error library Documentation Files
+globus-authz-devel.x86_64 : Grid Community Toolkit - Globus authz library
+                          : Development Files
+globus-authz-doc.noarch : Grid Community Toolkit - Globus authz library
+                        : Documentation Files
+globus-callout.x86_64 : Grid Community Toolkit - Globus Callout Library
+globus-callout-devel.x86_64 : Grid Community Toolkit - Globus Callout Library
+                            : Development Files
+globus-callout-doc.noarch : Grid Community Toolkit - Globus Callout Library
+                          : Documentation Files
+globus-gass-cache.x86_64 : Grid Community Toolkit - Globus Gass Cache
+globus-gass-cache-devel.x86_64 : Grid Community Toolkit - Globus Gass Cache
+                               : Development Files
+globus-gass-cache-doc.noarch : Grid Community Toolkit - Globus Gass Cache
+                             : Documentation Files
+globus-gass-copy.x86_64 : Grid Community Toolkit - Globus Gass Copy
+globus-gass-copy-devel.x86_64 : Grid Community Toolkit - Globus Gass Copy
+                              : Development Files
+globus-gass-copy-doc.noarch : Grid Community Toolkit - Globus Gass Copy
+                            : Documentation Files
+globus-gass-copy-progs.x86_64 : Grid Community Toolkit - Globus Gass Copy
+                              : Programs
+globus-gass-server-ez.x86_64 : Grid Community Toolkit - Globus Gass Server_ez
+globus-gass-server-ez-devel.x86_64 : Grid Community Toolkit - Globus Gass
+                                   : Server_ez Development Files
+globus-gass-server-ez-progs.x86_64 : Grid Community Toolkit - Globus Gass
+                                   : Server_ez Programs
+globus-gass-transfer.x86_64 : Grid Community Toolkit - Globus Gass Transfer
+globus-gass-transfer-devel.x86_64 : Grid Community Toolkit - Globus Gass
+                                  : Transfer Development Files
+globus-gass-transfer-doc.noarch : Grid Community Toolkit - Globus Gass Transfer
+                                : Documentation Files
+globus-gatekeeper.x86_64 : Grid Community Toolkit - Globus Gatekeeper
+globus-gram-client-tools.x86_64 : Grid Community Toolkit - Job Management Tools
+                                : (globusrun)
+globus-gram-job-manager-callout-error.x86_64 : Grid Community Toolkit - Globus
+                                             : GRAM Jobmanager Callout Errors
+globus-gram-job-manager-callout-error-devel.x86_64 : Grid Community Toolkit -
+     ...: Globus GRAM Jobmanager Callout Errors Development Files
+globus-gram-job-manager-callout-error-doc.noarch : Grid Community Toolkit -
+     ...: Globus GRAM Jobmanager Callout Errors Documentation Files
+globus-gridftp-server.x86_64 : Grid Community Toolkit - Globus GridFTP Server
+globus-gridftp-server-control.x86_64 : Grid Community Toolkit - Globus GridFTP
+                                     : Server Library
+globus-gridftp-server-control-devel.x86_64 : Grid Community Toolkit - Globus
+     ...: GridFTP Server Library Development Files
+globus-gridftp-server-devel.x86_64 : Grid Community Toolkit - Globus GridFTP
+                                   : Server Development Files
+globus-gridftp-server-progs.x86_64 : Grid Community Toolkit - Globus GridFTP
+                                   : Server Programs
+globus-gridmap-callout-error.x86_64 : Grid Community Toolkit - Globus Gridmap
+                                    : Callout Errors
+globus-gridmap-callout-error-devel.x86_64 : Grid Community Toolkit - Globus
+     ...: Gridmap Callout Errors Development Files
+globus-gridmap-callout-error-doc.noarch : Grid Community Toolkit - Globus
+     ...: Gridmap Callout Errors Documentation Files
+globus-gridmap-eppn-callout.x86_64 : Grid Community Toolkit - Globus gridmap
+                                   : ePPN callout
+globus-gridmap-verify-myproxy-callout.x86_64 : Grid Community Toolkit - Globus
+                                             : gridmap myproxy callout
+globus-gsi-callback.x86_64 : Grid Community Toolkit - Globus GSI Callback
+                           : Library
+globus-gsi-callback-devel.x86_64 : Grid Community Toolkit - Globus GSI Callback
+                                 : Library Development Files
+globus-gsi-callback-doc.noarch : Grid Community Toolkit - Globus GSI Callback
+                               : Library Documentation Files
+globus-gsi-cert-utils.x86_64 : Grid Community Toolkit - Globus GSI Cert Utils
+                             : Library
+globus-gsi-cert-utils-devel.x86_64 : Grid Community Toolkit - Globus GSI Cert
+                                   : Utils Library Development Files
+globus-gsi-cert-utils-doc.noarch : Grid Community Toolkit - Globus GSI Cert
+                                 : Utils Library Documentation Files
+globus-gsi-cert-utils-progs.noarch : Grid Community Toolkit - Globus GSI Cert
+                                   : Utils Library Programs
+globus-gsi-credential.x86_64 : Grid Community Toolkit - Globus GSI Credential
+                             : Library
+globus-gsi-credential-devel.x86_64 : Grid Community Toolkit - Globus GSI
+                                   : Credential Library Development Files
+globus-gsi-credential-doc.noarch : Grid Community Toolkit - Globus GSI
+                                 : Credential Library Documentation Files
+globus-gsi-openssl-error.x86_64 : Grid Community Toolkit - Globus OpenSSL Error
+                                : Handling
+globus-gsi-openssl-error-devel.x86_64 : Grid Community Toolkit - Globus OpenSSL
+                                      : Error Handling Development Files
+globus-gsi-openssl-error-doc.noarch : Grid Community Toolkit - Globus OpenSSL
+                                    : Error Handling Documentation Files
+globus-gsi-proxy-core.x86_64 : Grid Community Toolkit - Globus GSI Proxy Core
+                             : Library
+globus-gsi-proxy-core-devel.x86_64 : Grid Community Toolkit - Globus GSI Proxy
+                                   : Core Library Development Files
+globus-gsi-proxy-core-doc.noarch : Grid Community Toolkit - Globus GSI Proxy
+                                 : Core Library Documentation Files
+globus-gsi-proxy-ssl.x86_64 : Grid Community Toolkit - Globus GSI Proxy SSL
+                            : Library
+globus-gsi-proxy-ssl-devel.x86_64 : Grid Community Toolkit - Globus GSI Proxy
+                                  : SSL Library Development Files
+globus-gsi-proxy-ssl-doc.noarch : Grid Community Toolkit - Globus GSI Proxy SSL
+                                : Library Documentation Files
+globus-gsi-sysconfig.x86_64 : Grid Community Toolkit - Globus GSI System Config
+                            : Library
+globus-gsi-sysconfig-devel.x86_64 : Grid Community Toolkit - Globus GSI System
+                                  : Config Library Development Files
+globus-gsi-sysconfig-doc.noarch : Grid Community Toolkit - Globus GSI System
+                                : Config Library Documentation Files
+globus-openssl-module.x86_64 : Grid Community Toolkit - Globus OpenSSL Module
+                             : Wrapper
+globus-openssl-module-devel.x86_64 : Grid Community Toolkit - Globus OpenSSL
+                                   : Module Wrapper Development Files
+globus-openssl-module-doc.noarch : Grid Community Toolkit - Globus OpenSSL
+                                 : Module Wrapper Documentation Files
+globus-proxy-utils.x86_64 : Grid Community Toolkit - Globus GSI Proxy Utility
+                          : Programs
+globus-xio.x86_64 : Grid Community Toolkit - Globus XIO Framework
+globus-xio-devel.x86_64 : Grid Community Toolkit - Globus XIO Framework
+                        : Development Files
+globus-xio-doc.noarch : Grid Community Toolkit - Globus XIO Framework
+                      : Documentation Files
+globus-xio-gridftp-driver.x86_64 : Grid Community Toolkit - Globus XIO GridFTP
+                                 : Driver
+globus-xio-gridftp-driver-devel.x86_64 : Grid Community Toolkit - Globus XIO
+                                       : GridFTP Driver Development Files
+globus-xio-gridftp-driver-doc.noarch : Grid Community Toolkit - Globus XIO
+                                     : GridFTP Driver Documentation Files
+globus-xio-gridftp-multicast.x86_64 : Grid Community Toolkit - Globus XIO
+                                    : GridFTP Multicast Driver
+globus-xio-gridftp-multicast-devel.x86_64 : Grid Community Toolkit - Globus XIO
+     ...: GridFTP Multicast Driver Development Files
+globus-xio-gsi-driver.x86_64 : Grid Community Toolkit - Globus XIO GSI Driver
+globus-xio-gsi-driver-devel.x86_64 : Grid Community Toolkit - Globus XIO GSI
+                                   : Driver Development Files
+globus-xio-gsi-driver-doc.noarch : Grid Community Toolkit - Globus XIO GSI
+                                 : Driver Documentation Files
+globus-xio-net-manager-driver.x86_64 : Grid Community Toolkit - Globus XIO
+                                     : Network Manager Driver
+globus-xio-net-manager-driver-devel.x86_64 : Grid Community Toolkit - Globus XIO
+     ...: Network Manager Driver Development Files
+globus-xio-pipe-driver.x86_64 : Grid Community Toolkit - Globus Pipe Driver
+globus-xio-pipe-driver-devel.x86_64 : Grid Community Toolkit - Globus Pipe
+                                    : Driver Development Files
+globus-xio-popen-driver.x86_64 : Grid Community Toolkit - Globus XIO Pipe Open
+                               : Driver
+globus-xio-popen-driver-devel.x86_64 : Grid Community Toolkit - Globus XIO Pipe
+                                     : Open Driver Development Files
+globus-xio-rate-driver.x86_64 : Grid Community Toolkit - Globus XIO Rate
+                              : Limiting Driver
+globus-xio-rate-driver-devel.x86_64 : Grid Community Toolkit - Globus XIO Rate
+                                    : Limiting Driver Development Files
+globus-xio-udt-driver.x86_64 : Grid Community Toolkit - Globus XIO UDT Driver
+globus-xio-udt-driver-devel.x86_64 : Grid Community Toolkit - Globus XIO UDT
+                                   : Driver Development Files
+glog-devel.x86_64 : Development files for glog
+gloox-devel.x86_64 : Development files for gloox
+glpk-devel.x86_64 : Development headers and files for GLPK
+glpk-doc.x86_64 : Documentation for glpk
+glpk-static.x86_64 : Static version of GLPK libraries
+glpk-utils.x86_64 : GLPK-related utilities and examples
+glue-schema.noarch : LDAP schema files for the GLUE 1.3 and GLUE 2.0 Schema
+glusterfs-api.x86_64 : GlusterFS api library
+glusterfs-cli.x86_64 : GlusterFS CLI
+glusterfs-client-xlators.x86_64 : GlusterFS client-side translators
+glusterfs-libs.x86_64 : GlusterFS common libraries
+glusterfs-rdma.x86_64 : GlusterFS rdma support for ib-verbs
+glx-utils.x86_64 : GLX utilities
+golang-github-golang-glog-unit-test.x86_64 : Unit tests for
+                                           : golang-github-golang-glog package
+golang-github-google-go-cmp-unit-test-devel.x86_64 : Unit tests for
+     ...: golang-github-google-go-cmp package
+golang-github-jtolds-gls-unit-test.x86_64 : Unit tests for
+                                          : golang-github-jtolds-gls package
+golang-github-ryanuber-go-glob-devel.noarch : Basic string globs in Go (Golang)
+golang-github-ryanuber-go-glob-unit-test-devel.x86_64 : Unit tests for
+     ...: golang-github-ryanuber-go-glob package
+golang-google-golangorg-cloud-devel.noarch : Google Cloud Platform APIs related
+                                           : types and common functions
+golang-google-golangorg-cloud-unit-test.x86_64 : Unit tests for
+     ...: golang-google-golangorg-cloud package
+golang-googlecode-go-crypto-unit-test-devel.x86_64 : Unit tests for
+     ...: golang-googlecode-go-crypto package
+golang-googlecode-goauth2-unit-test.x86_64 : Unit tests for
+                                           : golang-googlecode-goauth2 package
+golang-googlecode-goprotobuf.x86_64 : Go support for Google protocol buffers
+golang-googlecode-goprotobuf-devel.noarch : Go support for Google protocol
+                                          : buffers
+golang-googlecode-goprotobuf-unit-test-devel.x86_64 : Unit tests for
+     ...: golang-googlecode-goprotobuf package
+golang-googlecode-net-devel.noarch : Supplementary Go networking libraries for
+                                   : code.google.com/p/ imports
+golang-googlecode-net-unit-test-devel.x86_64 : Unit tests for
+                                             : golang-googlecode-net package
+golang-googlecode-text-devel.noarch : Supplementary Go text libraries for
+                                    : code.google.com/p/ imports
+golang-googlecode-text-unit-test-devel.x86_64 : Unit tests for
+                                              : golang-googlecode-text package
+google-benchmark-devel.x86_64 : Development files for google-benchmark
+google-gson-javadoc.noarch : API documentation for google-gson
+google-noto-cjk-fonts.noarch : Google Noto Sans CJK Fonts
+google-noto-emoji-color-fonts.noarch : Google ?Noto Color Emoji? colored emoji
+                                     : font
+google-noto-emoji-fonts.noarch : Google ?Noto Emoji? Black-and-White emoji font
+google-noto-sans-egyptian-hieroglyphs-fonts.noarch : Sans Egyptian Hieroglyphs
+                                                   : font
+google-noto-sans-glagolitic-fonts.noarch : Sans Glagolitic font
+google-roboto-condensed-fonts.noarch : Google Roboto condensed fonts
+google-roboto-fonts.noarch : Google Roboto fonts
+google-roboto-mono-fonts.noarch : Google Roboto Mono fonts
+google-roboto-slab-fonts.noarch : Google Roboto Slab fonts
+gstreamer1-plugins-ugly-free.i686 : GStreamer streaming media framework "ugly"
+                                  : plugins
+gstreamer1-plugins-ugly-free.x86_64 : GStreamer streaming media framework "ugly"
+                                    : plugins
+gstreamer1-plugins-ugly-free-devel.i686 : Development files for the GStreamer
+                                        : media framework "ugly" plug-ins
+gstreamer1-plugins-ugly-free-devel.x86_64 : Development files for the GStreamer
+                                          : media framework "ugly" plug-ins
+gtkglarea2.x86_64 : OpenGL GTK widget
+gtkglarea2-devel.x86_64 : Development package for gtkglarea2
+gtkglext-devel.x86_64 : Development tools for GTK-based OpenGL applications
+gtkglext-libs.x86_64 : OpenGL Extension to GTK
+hugs98-glut.x86_64 : GLUT package for Hugs98
+hugs98-opengl.x86_64 : OpenGL package for Hugs98
+jakarta-taglibs-standard-javadoc.noarch : Javadoc for jakarta-taglibs-standard
+jglobus-gram.noarch : Globus Java - Grid Resource Allocation and Management
+                    : (GRAM)
+jglobus-gridftp.noarch : Globus Java - GridFTP
+jglobus-gss.noarch : Globus Java - GSS-API implementation for SSL with proxies
+jglobus-io.noarch : Globus Java - IO
+jglobus-javadoc.noarch : Javadoc for jglobus
+jglobus-jsse.noarch : Globus Java - SSL support
+jglobus-myproxy.noarch : Globus Java - MyProxy
+jglobus-parent.noarch : Globus Java - parent pom file
+jglobus-ssl-proxies.noarch : Globus Java - SSL and proxy certificate support
+jglobus-ssl-proxies-tomcat.noarch : Globus Java - SSL and proxy certificate
+                                  : support for Tomcat
+js-uglify.noarch : JavaScript parser, mangler/compressor and beautifier toolkit
+                 : - core library
+js-uglify-1.noarch : JavaScript parser, mangler/compressor and beautifier
+                   : toolkit - core library
+json-glib-devel.i686 : Development files for json-glib
+json-glib-devel.x86_64 : Development files for json-glib
+json-glib-tests.x86_64 : Tests for the json-glib package
+kf5-kglobalaccel.x86_64 : KDE Frameworks 5 Tier 3 integration module for global
+                        : shortcuts
+kf5-kglobalaccel-devel.x86_64 : Development files for kf5-kglobalaccel
+kf5-kglobalaccel-libs.x86_64 : Runtime libraries for kf5-kglobalaccel
+kwin-gles.x86_64 : KWin built to support GLES
+kwin-gles-libs.i686 : Runtime libraries for kwin-gles
+kwin-gles-libs.x86_64 : Runtime libraries for kwin-gles
+libappstream-glib-builder-devel.i686 : GLib Libraries and headers for
+                                     : appstream-builder
+libappstream-glib-builder-devel.x86_64 : GLib Libraries and headers for
+                                       : appstream-builder
+libappstream-glib-devel.i686 : GLib Libraries and headers for appstream-glib
+libappstream-glib-devel.x86_64 : GLib Libraries and headers for appstream-glib
+libgit2-glib.x86_64 : Git library for GLib
+libgit2-glib-devel.x86_64 : Development files for libgit2-glib
+libglade2.i686 : The libglade library for loading user interfaces
+libglade2.x86_64 : The libglade library for loading user interfaces
+libglade2-devel.i686 : The files needed for libglade application development
+libglade2-devel.x86_64 : The files needed for libglade application development
+libglvnd.i686 : The GL Vendor-Neutral Dispatch library
+libglvnd.x86_64 : The GL Vendor-Neutral Dispatch library
+libglvnd-core-devel.i686 : Core development files for libglvnd
+libglvnd-core-devel.x86_64 : Core development files for libglvnd
+libglvnd-devel.i686 : Development files for libglvnd
+libglvnd-devel.x86_64 : Development files for libglvnd
+libglvnd-egl.i686 : EGL support for libglvnd
+libglvnd-egl.x86_64 : EGL support for libglvnd
+libglvnd-gles.i686 : GLES support for libglvnd
+libglvnd-gles.x86_64 : GLES support for libglvnd
+libglvnd-glx.i686 : GLX support for libglvnd
+libglvnd-glx.x86_64 : GLX support for libglvnd
+libglvnd-opengl.i686 : OpenGL support for libglvnd
+libglvnd-opengl.x86_64 : OpenGL support for libglvnd
+libical-glib-devel.i686 : Development files for building against libical-glib
+libical-glib-devel.x86_64 : Development files for building against libical-glib
+libical-glib-doc.noarch : Documentation files for libical-glib
+libnodeupdown-backend-ganglia.x86_64 : Ganglia backend for libnodeupdown
+libreoffice-glade.x86_64 : Support for creating LibreOffice dialogs in glade
+libreoffice-ogltrans.x86_64 : 3D OpenGL slide transitions for LibreOffice
+libvdpau-va-gl.x86_64 : VDPAU driver with OpenGL/VAAPI back-end
+libverto-glib.i686 : glib module for libverto
+libverto-glib.x86_64 : glib module for libverto
+libverto-glib-devel.i686 : Development files for libverto-glib
+libverto-glib-devel.x86_64 : Development files for libverto-glib
+libvirt-daemon-driver-storage-gluster.x86_64 : Storage driver plugin for gluster
+libvirt-glib.i686 : libvirt glib integration for events
+libvirt-glib.x86_64 : libvirt glib integration for events
+libvirt-glib-devel.i686 : libvirt glib integration for events development files
+libvirt-glib-devel.x86_64 : libvirt glib integration for events development
+                          : files
+libwayland-egl.i686 : Wayland egl library
+libwayland-egl.x86_64 : Wayland egl library
+lxqt-globalkeys.x86_64 : Global keys utility for LXQt desktop suite
+lxqt-globalkeys-devel.x86_64 : Developer files for lxqt-globalkeys
+lxqt-globalkeys-l10n.noarch : Translations for lxqt-globalkeys
+lxqt-globalkeys-l10n.x86_64 : Translations for lxqt-globalkeys
+mathgl-common.noarch : Common files for mathgl
+mathgl-devel.x86_64 : Libraries and header files for mathgl library
+mathgl-doc.noarch : HTML documentation and tutorial for the mathgl applications
+mathgl-examples.x86_64 : Example illustration generators for mathgl
+mathgl-fltk.x86_64 : Fltk widgets of mathgl library
+mathgl-fltk-devel.x86_64 : Devel files for fltk widgets of mathgl library
+mathgl-fonts.x86_64 : Compiled fonts for the mathgl
+mathgl-mglview.x86_64 : Execute MathGL scripts and show in an window
+mathgl-mpich.x86_64 : MPICH version of mathgl library
+mathgl-mpich-devel.x86_64 : Devel files for MPICH version of mathgl library
+mathgl-openmpi.x86_64 : OpenMPI version of mathgl library
+mathgl-openmpi-devel.x86_64 : Devel files for OpenMPI version of mathgl library
+mathgl-qt.x86_64 : Qt widgets of mathgl library
+mathgl-qt-devel.x86_64 : Devel files for qt widgets of mathgl library
+mathgl-wx.x86_64 : wxWidgets widgets of mathgl library
+mathgl-wx-devel.x86_64 : Devel files for wxWidgets widgets of mathgl library
+mesa-libEGL.i686 : Mesa libEGL runtime libraries
+mesa-libEGL.x86_64 : Mesa libEGL runtime libraries
+mesa-libEGL-devel.i686 : Mesa libEGL development package
+mesa-libEGL-devel.x86_64 : Mesa libEGL development package
+mesa-libGL.i686 : Mesa libGL runtime libraries and DRI drivers
+mesa-libGL.x86_64 : Mesa libGL runtime libraries and DRI drivers
+mesa-libGL-devel.i686 : Mesa libGL development package
+mesa-libGL-devel.x86_64 : Mesa libGL development package
+mesa-libGLES.i686 : Mesa libGLES runtime libraries
+mesa-libGLES.x86_64 : Mesa libGLES runtime libraries
+mesa-libGLES-devel.i686 : Mesa libGLES development package
+mesa-libGLES-devel.x86_64 : Mesa libGLES development package
+mesa-libGLU.i686 : Mesa libGLU library
+mesa-libGLU.x86_64 : Mesa libGLU library
+mesa-libGLU-devel.i686 : Development files for mesa-libGLU
+mesa-libGLU-devel.x86_64 : Development files for mesa-libGLU
+mesa-libGLw.i686 : Xt / Motif OpenGL widgets
+mesa-libGLw.x86_64 : Xt / Motif OpenGL widgets
+mesa-libGLw-devel.i686 : Mesa libGLw development package
+mesa-libGLw-devel.x86_64 : Mesa libGLw development package
+mesa-libglapi.i686 : Mesa shared glapi
+mesa-libglapi.x86_64 : Mesa shared glapi
+nodejs-debuglog.noarch : Backport of util.debuglog from node v0.11
+nodejs-glob.noarch : A little globber for Node.js
+nodejs-globule.noarch : An easy-to-use wildcard globbing library for Node.js
+nodejs-grunt-contrib-uglify.noarch : Minify files with UglifyJS
+nodejs-uglify-to-browserify.noarch : A transform to make UglifyJS work in
+                                   : browserify
+nordugrid-arc-gangliarc.noarch : Ganglia monitoring for ARC services
+nordugrid-arc-plugins-globus.x86_64 : ARC Globus plugins
+nordugrid-arc6-plugins-globus.x86_64 : ARC Globus plugins (compat)
+nordugrid-arc6-plugins-globus-common.x86_64 : ARC Globus plugins common
+                                            : libraries
+nvidia-query-resource-opengl.x86_64 : Querying OpenGL resource usage of
+     ...: applications using the NVIDIA OpenGL driver
+nvidia-query-resource-opengl-lib.x86_64 : Library for
+                                        : nvidia-query-resource-opengl
+ocaml-lablgl.x86_64 : LablGL is an OpenGL interface for Objective Caml
+ocaml-lablgl-devel.x86_64 : Development files for ocaml-lablgl
+pcp-import-ganglia2pcp.x86_64 : Performance Co-Pilot tools for importing ganglia
+                              : data into PCP archive logs
+pcp-pmda-gluster.x86_64 : Performance Co-Pilot (PCP) metrics for the Gluster
+                        : filesystem
+perl-Class-Singleton.noarch : Implementation of a "Singleton" class
+perl-Devel-GlobalDestruction.noarch : Expose PL_dirty, the flag that marks
+                                    : global destruction
+perl-Devel-GlobalDestruction-XS.x86_64 : Faster implementation of the
+                                       : Devel::GlobalDestruction API
+perl-Glib.x86_64 : Perl interface to GLib
+perl-Glib-devel.x86_64 : Development part of Perl interface to GLib
+perl-MooseX-GlobRef.noarch : Store a Moose object in glob reference
+perl-OpenGL.x86_64 : Perl OpenGL bindings
+perl-Text-Glob.noarch : Perl module to match globbing patterns against text
+php-google-apiclient.noarch : Client library for Google APIs
+php-google-apiclient-examples.noarch : Client library for Google APIs: Examples
+php-pear-Text-Figlet.noarch : Render text using FIGlet fonts
+php-sebastian-global-state.noarch : Snapshotting of global state
+piglit.x86_64 : Collection of automated tests for OpenGL implementations
+pnglite-devel.x86_64 : Files needed to build and link programs with pnglite
+poppler-glib.i686 : Glib wrapper for poppler
+poppler-glib.x86_64 : Glib wrapper for poppler
+poppler-glib-devel.i686 : Development files for glib wrapper
+poppler-glib-devel.x86_64 : Development files for glib wrapper
+pulseaudio-libs-glib2.i686 : GLIB 2.x bindings for PulseAudio clients
+pulseaudio-libs-glib2.x86_64 : GLIB 2.x bindings for PulseAudio clients
+pygtk2-libglade.x86_64 : A wrapper for the libglade library for use with PyGTK
+python-mathgl.x86_64 : Python module for MathGL
+python-singledispatch.noarch : This library brings functools.singledispatch from
+                             : Python 3.4 to Python 2.6-3.3
+python2-avocado-plugins-glib.noarch : Avocado plugin for execution of GLib Test
+                                    : Framework tests
+python2-certbot-dns-google.noarch : Google Cloud DNS Authenticator plugin for
+                                  : Certbot
+python2-ganglia-gmond.x86_64 : Ganglia Monitor daemon python DSO and metric
+                             : modules
+python2-gluster.x86_64 : GlusterFS python library
+python2-google-api-client.noarch : Google APIs Client Library for Python
+python2-google-auth.noarch : Google Auth Python Library
+python36-google-api-client.noarch : Google APIs Client Library for Python
+python36-spglib.x86_64 : Python3 library of spglib
+qgle.x86_64 : QT frontend to GLE
+qtsingleapplication-devel.x86_64 : Development files for qtsingleapplication
+qtsingleapplication-qt5-devel.x86_64 : Development files for
+                                     : qtsingleapplication-qt5
+qtsinglecoreapplication-devel.x86_64 : Development files for
+                                     : qtsinglecoreapplication
+qtsinglecoreapplication-qt5-devel.x86_64 : Development files for
+                                         : qtsinglecoreapplication-qt5
+quesoglc.x86_64 : The OpenGL Character Renderer
+quesoglc-devel.x86_64 : Development files for quesoglc
+root-graf3d-gl.x86_64 : GL renderer for ROOT
+rubygem-uglifier.noarch : Ruby wrapper for UglifyJS JavaScript compressor
+rubygem-uglifier-doc.noarch : Documentation for rubygem-uglifier
+samba-vfs-glusterfs.x86_64 : Samba VFS module for GlusterFS
+scsi-target-utils-gluster.x86_64 : Support for the Gluster backstore to
+                                 : scsi-target-utils
+snapd-glib.x86_64 : Library providing a GLib interface to snapd
+snapd-glib-devel.x86_64 : Development files for snapd-glib
+snapd-glib-tests.x86_64 : Installed tests for snapd-glib
+spglib-devel.x86_64 : Development files for spglib
+spice-glib-devel.i686 : Development files to build Glib2 applications with
+                      : spice-glib-2.0
+spice-glib-devel.x86_64 : Development files to build Glib2 applications with
+                        : spice-glib-2.0
+taglib-devel.i686 : Development files for taglib
+taglib-devel.x86_64 : Development files for taglib
+taglib-doc.noarch : API Documentation for taglib
+taglib-extras.x86_64 : Taglib support for other formats
+taglib-extras-devel.x86_64 : Development files for taglib-extras
+taskjuggler-libs.x86_64 : Libraries for taskjuggler
+tcl-togl.x86_64 : A Tk OpenGL widget
+tcl-togl-devel.x86_64 : Development files for tcl-togl
+telepathy-glib.i686 : GLib bindings for Telepathy
+telepathy-glib.x86_64 : GLib bindings for Telepathy
+telepathy-glib-devel.i686 : Development files for telepathy-glib
+telepathy-glib-devel.x86_64 : Development files for telepathy-glib
+telepathy-glib-vala.x86_64 : Vala bindings for telepathy-glib
+texlive-glossaries.noarch : Create glossaries and lists of acronyms
+texlive-glossaries-bin.noarch : Binaries for glossaries
+texlive-glossaries-doc.noarch : Documentation for glossaries
+texlive-glyphlist.noarch : glyphlist package
+texlive-polyglossia-doc.noarch : Documentation for polyglossia
+thrift-glib.x86_64 : GLib support for thrift
+uglify-js.noarch : JavaScript parser, mangler/compressor and beautifier toolkit
+uglify-js1.noarch : JavaScript parser, mangler/compressor and beautifier toolkit
+uwsgi-plugin-glusterfs.x86_64 : uWSGI - Plugin for GlusterFS support
+wxGTK-gl.x86_64 : OpenGL add-on for the wxWidgets library
+wxGTK3-gl.x86_64 : OpenGL add-on for the wxWidgets library
+xscreensaver-gl-base.x86_64 : A base package for screensavers that require
+                            : OpenGL
+xscreensaver-gl-extras.x86_64 : An enhanced set of screensavers that require
+                              : OpenGL
+xscreensaver-gl-extras-gss.x86_64 : Desktop files of gl-extras for other
+                                  : screensaver
+NetworkManager-glib.i686 : Libraries for adding NetworkManager support to
+                         : applications (old API).
+NetworkManager-glib.x86_64 : Libraries for adding NetworkManager support to
+                           : applications (old API).
+NetworkManager-glib-devel.i686 : Header files for adding NetworkManager support
+                               : to applications (old API).
+NetworkManager-glib-devel.x86_64 : Header files for adding NetworkManager
+                                 : support to applications (old API).
+SuperLUMT.x86_64 : Single precision real SuperLU routines for shared memory
+                 : parallel machines
+SuperLUMT-complex.x86_64 : Single precision complex SuperLU routines for shared
+                         : memory parallel machines
+SuperLUMT64.x86_64 : Single precision real SuperLU routines (64bit INTEGER)
+SuperLUMT64-complex.x86_64 : Single precision complex SuperLU routines (64bit
+                           : INTEGER)
+alglib.x86_64 : A numerical analysis and data processing library
+aspell-en.x86_64 : English dictionaries for Aspell
+atomic-registries.x86_64 : Parses a global YAML registry file
+autocorr-en.noarch : English auto-correction rules
+batik-squiggle.noarch : Batik SVG browser
+calligra-l10n-en_GB.noarch : British English language pack for calligra
+calligra-l10n-gl.noarch : Galician language pack for calligra
+cglib.noarch : Code Generation Library for Java
+chromedriver.x86_64 : WebDriver for Google Chrome/Chromium
+chromium.x86_64 : A WebKit (Blink) powered web browser that Google doesn't want
+                : you to use
+cogl.i686 : A library for using 3D graphics hardware to draw pretty pictures
+cogl.x86_64 : A library for using 3D graphics hardware to draw pretty pictures
+compat-glibc.x86_64 : Compatibility C library
+compat-glibc-headers.x86_64 : Header files for development using standard C
+                            : libraries.
+compat-libpackagekit-glib2-16.i686 : Compatibility package with PackageKit 0.8
+                                   : libraries
+compat-libpackagekit-glib2-16.x86_64 : Compatibility package with PackageKit 0.8
+                                     : libraries
+compat-libupower-glib1.i686 : Compat package with upower 0.9 libraries
+compat-libupower-glib1.x86_64 : Compat package with upower 0.9 libraries
+darkhttpd.x86_64 : A secure, lightweight, fast, single-threaded HTTP/1.1 server
+dbus-sharp-glib-devel.x86_64 : Development files for D-Bus Sharp
+dmlite-dpm-dsi.x86_64 : Disk Pool Manager (DPM) plugin for the Globus GridFTP
+                      : server
+erlang-snappy.x86_64 : An Erlang NIF wrapper for Google's snappy library
+fence-agents-gce.x86_64 : Fence agent for GCE (Google Cloud Engine)
+festvox-awb-arctic-hts.noarch : Scottish-accent US English male speaker "AWB"
+                              : for Festival
+festvox-bdl-arctic-hts.noarch : US English male speaker "BDL" for Festival
+festvox-clb-arctic-hts.noarch : US English female speaker "CLB" for Festival
+festvox-jmk-arctic-hts.noarch : Canadian-accent US English male speaker "JMK"
+                              : for Festival
+festvox-kal-diphone.noarch : American English male speaker "Kevin" for Festival
+festvox-ked-diphone.noarch : American English male speaker "Kurt" for Festival
+festvox-rms-arctic-hts.noarch : US English male speaker "RMS" for Festival
+festvox-slt-arctic-hts.noarch : US English female speaker "SLT" for Festival
+figlet.x86_64 : A program for making large letters out of ordinary text
+firebird-superclassic.x86_64 : SuperClassic (single process) server for Firebird
+                             : SQL RDBMS
+firebird-superserver.x86_64 : Superserver (single process) server for Firebird
+                            : SQL RDBMS
+fontdump.noarch : Dump the CSS and different formats of fonts for Google Fonts
+fwknop.x86_64 : A Single Packet Authorization (SPA) implementation
+ga-common.noarch : Global Arrays Common Files
+ga-mpich.x86_64 : Global Arrays Toolkit for MPICH
+ga-mpich-devel.x86_64 : Global Arrays Toolkit for MPICH Development
+ga-mpich-static.x86_64 : Global Arrays Toolkit for MPICH Static Libraries
+ga-openmpi.x86_64 : Global Arrays Toolkit for OpenMPI
+ga-openmpi-devel.x86_64 : Global Arrays Toolkit for OpenMPI Development
+ga-openmpi-static.x86_64 : Global Arrays Toolkit for OpenMPI Static Libraries
+ganglia.x86_64 : Distributed Monitoring System
+gdata-sharp.x86_64 : .NET library for the Google Data API
+gegl.i686 : A graph based image processing framework
+gegl.x86_64 : A graph based image processing framework
+geocode-glib.i686 : Geocoding helper library
+geocode-glib.x86_64 : Geocoding helper library
+gfs2-utils.x86_64 : Utilities for managing the global file system (GFS2)
+ghc.x86_64 : Glasgow Haskell Compiler
+ghc-blaze-html.x86_64 : A blazingly fast HTML combinator library for Haskell
+ghc-blaze-markup.x86_64 : A blazingly fast markup combinator library for Haskell
+gimp-help-en_GB.noarch : British English (en_GB) language support for gimp-help
+gkeyfile-sharp.x86_64 : C# bindings for glib2's keyfile implementation
+glade.x86_64 : User Interface Designer for GTK+
+glade3.x86_64 : User Interface Designer for GTK+ 2
+glances.noarch : CLI curses based monitoring tool
+glassfish-dtd-parser.noarch : Library for parsing XML DTDs
+glassfish-el.noarch : J2EE Expression Language Implementation
+glassfish-el-api.noarch : Expression Language API 2.2.4
+glassfish-fastinfoset.noarch : Fast Infoset
+glassfish-jaxb.noarch : JAXB Reference Implementation
+glassfish-jaxb-api.noarch : Java Architecture for XML Binding
+glassfish-jaxb-api-javadoc.noarch : Javadoc for jaxb-api
+glassfish-saaj.noarch : JSR-67 implementation
+gle.x86_64 : Graphics Layout Engine
+glfw.x86_64 : A cross-platform multimedia library
+glfw-devel.x86_64 : Support for developing C application
+glib.x86_64 : A library of handy utility functions
+glib2.x86_64 : A library of handy utility functions
+glib2.i686 : A library of handy utility functions
+glib2-devel.i686 : A library of handy utility functions
+glib2-devel.x86_64 : A library of handy utility functions
+glib2-doc.noarch : A library of handy utility functions
+glib2-fam.x86_64 : FAM monitoring module for GIO
+glibc.x86_64 : The GNU libc libraries
+glibc.i686 : The GNU libc libraries
+glibc-devel.x86_64 : Object files for development using standard C libraries.
+glibc-devel.i686 : Object files for development using standard C libraries.
+glibc-headers.x86_64 : Header files for development using standard C libraries.
+glibc-static.i686 : C library static libraries for -static linking.
+glibc-static.x86_64 : C library static libraries for -static linking.
+glibc-utils.x86_64 : Development utilities from GNU C library
+glide.x86_64 : Package Management for Golang
+glide-devel.noarch : Package Management for Golang
+glite-lb-client-java.x86_64 : JAVA implementation of the L&B service client
+glite-lb-logger-msg.x86_64 : Plugin for sending notifications to messaging
+                           : infrastructure
+glite-lb-state-machine-plugins.x86_64 : L&B state machine plugins
+glite-lb-types.noarch : Auxiliary build-time component defining LB event types
+                      : and job status fields
+glite-lbjp-common-db.x86_64 : Database engine abstraction wrapper used in L&B
+                            : and JP services
+glite-lbjp-common-jp-interface.x86_64 : Public API to JP service internal
+                                      : interface
+glite-lbjp-common-server-bones.x86_64 : Skeleton of multi-process network server
+glite-lbjp-common-trio.x86_64 : Standalone extended implementation of printf and
+                              : scanf
+glm-devel.noarch : C++ mathematics library for graphics programming
+global.x86_64 : Source code tag system
+globus-common.x86_64 : Grid Community Toolkit - Common Library
+globus-common-devel.x86_64 : Grid Community Toolkit - Common Library Development
+                           : Files
+globus-common-doc.noarch : Grid Community Toolkit - Common Library Documentation
+                         : Files
+globus-common-progs.x86_64 : Grid Community Toolkit - Common Library Programs
+globus-ftp-client.x86_64 : Grid Community Toolkit - GridFTP Client Library
+globus-ftp-client-devel.x86_64 : Grid Community Toolkit - GridFTP Client Library
+                               : Development Files
+globus-ftp-client-doc.noarch : Grid Community Toolkit - GridFTP Client Library
+                             : Documentation Files
+globus-ftp-control.x86_64 : Grid Community Toolkit - GridFTP Control Library
+globus-ftp-control-devel.x86_64 : Grid Community Toolkit - GridFTP Control
+                                : Library Development Files
+globus-ftp-control-doc.noarch : Grid Community Toolkit - GridFTP Control Library
+                              : Documentation Files
+globus-gass-cache-program.x86_64 : Grid Community Toolkit - Tools to manipulate
+                                 : local and remote GASS caches
+globus-gfork.x86_64 : Grid Community Toolkit - GFork
+globus-gfork-devel.x86_64 : Grid Community Toolkit - GFork Development Files
+globus-gfork-progs.x86_64 : Grid Community Toolkit - GFork Programs
+globus-gram-audit.noarch : Grid Community Toolkit - GRAM Jobmanager Auditing
+globus-gram-client.x86_64 : Grid Community Toolkit - GRAM Client Library
+globus-gram-client-devel.x86_64 : Grid Community Toolkit - GRAM Client Library
+                                : Development Files
+globus-gram-client-doc.noarch : Grid Community Toolkit - GRAM Client Library
+                              : Documentation Files
+globus-gram-job-manager.x86_64 : Grid Community Toolkit - GRAM Jobmanager
+globus-gram-job-manager-condor.noarch : Grid Community Toolkit - Condor Job
+                                      : Manager Support
+globus-gram-job-manager-fork.x86_64 : Grid Community Toolkit - Fork Job Manager
+                                    : Support
+globus-gram-job-manager-fork-setup-poll.noarch : Grid Community Toolkit - Fork
+     ...: Job Manager Support using polling
+globus-gram-job-manager-fork-setup-seg.x86_64 : Grid Community Toolkit - Fork
+                                              : Job Manager Support using SEG
+globus-gram-job-manager-lsf.x86_64 : Grid Community Toolkit - LSF Job Manager
+                                   : Support
+globus-gram-job-manager-lsf-setup-poll.noarch : Grid Community Toolkit - LSF Job
+                                              : Manager Support using polling
+globus-gram-job-manager-lsf-setup-seg.x86_64 : Grid Community Toolkit - LSF Job
+                                             : Manager Support using SEG
+globus-gram-job-manager-pbs.x86_64 : Grid Community Toolkit - PBS Job Manager
+                                   : Support
+globus-gram-job-manager-pbs-setup-poll.noarch : Grid Community Toolkit - PBS Job
+                                              : Manager Support using polling
+globus-gram-job-manager-pbs-setup-seg.x86_64 : Grid Community Toolkit - PBS Job
+                                             : Manager Support using SEG
+globus-gram-job-manager-scripts.noarch : Grid Community Toolkit - GRAM Job
+                                       : ManagerScripts
+globus-gram-job-manager-scripts-doc.noarch : Grid Community Toolkit - GRAM Job
+                                           : ManagerScripts Documentation Files
+globus-gram-job-manager-sge.x86_64 : Grid Community Toolkit - Grid Engine Job
+                                   : Manager Support
+globus-gram-job-manager-sge-setup-poll.noarch : Grid Community Toolkit - Grid
+     ...: Engine Job Manager Support using polling
+globus-gram-job-manager-sge-setup-seg.x86_64 : Grid Community Toolkit - Grid
+     ...: Engine Job Manager Support using SEG
+globus-gram-job-manager-slurm.noarch : Grid Community Toolkit - SLURM Job
+                                     : Manager Support
+globus-gram-protocol.x86_64 : Grid Community Toolkit - GRAM Protocol Library
+globus-gram-protocol-devel.x86_64 : Grid Community Toolkit - GRAM Protocol
+                                  : Library Development Files
+globus-gram-protocol-doc.noarch : Grid Community Toolkit - GRAM Protocol Library
+                                : Documentation Files
+globus-gss-assist.x86_64 : Grid Community Toolkit - GSSAPI Assist library
+globus-gss-assist-devel.x86_64 : Grid Community Toolkit - GSSAPI Assist library
+                               : Development Files
+globus-gss-assist-doc.noarch : Grid Community Toolkit - GSSAPI Assist library
+                             : Documentation Files
+globus-gss-assist-progs.noarch : Grid Community Toolkit - GSSAPI Assist library
+                               : Programs
+globus-gssapi-error.x86_64 : Grid Community Toolkit - GSSAPI Error Library
+globus-gssapi-error-devel.x86_64 : Grid Community Toolkit - GSSAPI Error Library
+                                 : Development Files
+globus-gssapi-error-doc.noarch : Grid Community Toolkit - GSSAPI Error Library
+                               : Documentation Files
+globus-gssapi-gsi.x86_64 : Grid Community Toolkit - GSSAPI library
+globus-gssapi-gsi-devel.x86_64 : Grid Community Toolkit - GSSAPI library
+                               : Development Files
+globus-gssapi-gsi-doc.noarch : Grid Community Toolkit - GSSAPI library
+                             : Documentation Files
+globus-io.x86_64 : Grid Community Toolkit - uniform I/O interface
+globus-io-devel.x86_64 : Grid Community Toolkit - uniform I/O interface
+                       : Development Files
+globus-net-manager.x86_64 : Grid Community Toolkit - Network Manager Library
+globus-net-manager-devel.x86_64 : Grid Community Toolkit - Network Manager
+                                : Library Development Files
+globus-net-manager-doc.noarch : Grid Community Toolkit - Network Manager Library
+                              : Documentation Files
+globus-rsl.x86_64 : Grid Community Toolkit - Resource Specification Language
+                  : Library
+globus-rsl-devel.x86_64 : Grid Community Toolkit - Resource Specification
+                        : Language Library Development Files
+globus-rsl-doc.noarch : Grid Community Toolkit - Resource Specification Language
+                      : Library Documentation Files
+globus-scheduler-event-generator.x86_64 : Grid Community Toolkit - Scheduler
+                                        : Event Generator
+globus-scheduler-event-generator-devel.x86_64 : Grid Community Toolkit -
+     ...: Scheduler Event Generator Development Files
+globus-scheduler-event-generator-doc.noarch : Grid Community Toolkit - Scheduler
+     ...: Event Generator Documentation Files
+globus-scheduler-event-generator-progs.x86_64 : Grid Community Toolkit -
+     ...: Scheduler Event Generator Programs
+globus-seg-job-manager.x86_64 : Grid Community Toolkit - Scheduler Event
+                              : Generator Job Manager
+globus-simple-ca.noarch : Grid Community Toolkit - Simple CA Utility
+globus-xioperf.x86_64 : Grid Community Toolkit - XIO Performance Tool
+glog.x86_64 : A C++ application logging library
+glogg.x86_64 : Smart interactive log explorer
+gloox.x86_64 : A rock-solid, full-featured Jabber/XMPP client C++ library
+glpi.noarch : Free IT asset management software
+glpk.x86_64 : GNU Linear Programming Kit
+glusterfs.x86_64 : Distributed File System
+glusterfs-api-devel.x86_64 : Development Libraries
+glusterfs-cloudsync-plugins.x86_64 : Cloudsync Plugins
+glusterfs-devel.x86_64 : Development Libraries
+glusterfs-fuse.x86_64 : Fuse client
+gmock.noarch : Google C++ Mocking Framework
+gnome-getting-started-docs-gl.noarch : Galician translations for
+                                     : gnome-getting-started-docs videos
+gnome-online-accounts.i686 : Single sign-on framework for GNOME
+gnome-online-accounts.x86_64 : Single sign-on framework for GNOME
+gnome-shell-extension-horizontal-workspaces.noarch : Arrange workspaces in GNOME
+                                                   : Shell in a single row
+golang-github-golang-glog-devel.noarch : Leveled execution logs for Go
+golang-github-google-go-cmp-devel.noarch : Package for comparing Go values in
+                                         : tests
+golang-github-google-go-genproto-devel.noarch : Go generated proto packages
+golang-github-jtolds-gls-devel.noarch : Goroutine local storage
+golang-googlecode-goauth2-devel.noarch : OAuth 2.0 for Go clients
+golang-googlecode-gogoprotobuf.x86_64 : A fork of goprotobuf with several extra
+                                      : features
+golang-googlecode-gogoprotobuf-devel.x86_64 : A fork of goprotobuf with several
+                                            : extra features
+golang-googlecode-tools-benchcmp.x86_64 : Displays performance changes between
+     ...: benchmarks for the Go programming language
+golang-googlecode-tools-devel.noarch : Libraries of supplementary Go tools
+golang-googlecode-tools-eg.x86_64 : Example-based refactoring for the Go
+                                  : programming language
+golang-googlecode-tools-godex.x86_64 : Dump exported information for Go
+                                     : programming language
+golang-googlecode-tools-goimports.x86_64 : Go programming language import line
+                                         : formatter
+golang-googlecode-tools-oracle.x86_64 : Go programming language oracle
+golang-googlecode-tools-present.x86_64 : Slide and Article Presentation
+golang-googlecode-tools-ssadump.x86_64 : Display and interpreting SSA form of Go
+                                       : programs
+google-authenticator.x86_64 : One-time pass-code support using open standards
+google-benchmark.x86_64 : A microbenchmark support library
+google-crosextra-caladea-fonts.noarch : Serif font metric-compatible with
+                                      : Cambria font
+google-crosextra-carlito-fonts.noarch : Sans-serif font metric-compatible with
+                                      : Calibri font
+google-droid-kufi-fonts.noarch : A kufi Arabic titling typeface designed to
+                               : complement Droid Sans
+google-droid-sans-fonts.noarch : A humanist sans serif typeface
+google-droid-sans-mono-fonts.noarch : A humanist monospace sans serif typeface
+google-droid-serif-fonts.noarch : A contemporary serif typeface
+google-gson.noarch : Java lib for conversion of Java objects into JSON
+                   : representation
+google-guice.noarch : Lightweight dependency injection framework for Java 5 and
+                    : above
+google-guice-javadoc.noarch : API documentation for Guice
+google-noto-fonts-common.noarch : Common files for Noto fonts
+google-noto-kufi-arabic-fonts.noarch : Kufi Arabic font
+google-noto-naskh-arabic-fonts.noarch : Naskh Arabic font
+google-noto-naskh-arabic-ui-fonts.noarch : Naskh Arabic UI font
+google-noto-sans-armenian-fonts.noarch : Sans Armenian font
+google-noto-sans-avestan-fonts.noarch : Sans Avestan font
+google-noto-sans-balinese-fonts.noarch : Sans Balinese font
+google-noto-sans-bamum-fonts.noarch : Sans Bamum font
+google-noto-sans-batak-fonts.noarch : Sans Batak font
+google-noto-sans-bengali-fonts.noarch : Sans Bengali font
+google-noto-sans-bengali-ui-fonts.noarch : Sans Bengali UI font
+google-noto-sans-brahmi-fonts.noarch : Sans Brahmi font
+google-noto-sans-buginese-fonts.noarch : Sans Buginese font
+google-noto-sans-buhid-fonts.noarch : Sans Buhid font
+google-noto-sans-canadian-aboriginal-fonts.noarch : Sans Canadian Aboriginal
+                                                  : font
+google-noto-sans-carian-fonts.noarch : Sans Carian font
+google-noto-sans-cham-fonts.noarch : Sans Cham font
+google-noto-sans-cherokee-fonts.noarch : Sans Cherokee font
+google-noto-sans-cjk-fonts.noarch : Sans CJK font
+google-noto-sans-coptic-fonts.noarch : Sans Coptic font
+google-noto-sans-cuneiform-fonts.noarch : Sans Cuneiform font
+google-noto-sans-cypriot-fonts.noarch : Sans Cypriot font
+google-noto-sans-deseret-fonts.noarch : Sans Deseret font
+google-noto-sans-devanagari-fonts.noarch : Sans Devanagari font
+google-noto-sans-devanagari-ui-fonts.noarch : Sans Devanagari UI font
+google-noto-sans-ethiopic-fonts.noarch : Sans Ethiopic font
+google-noto-sans-fonts.noarch : Sans font
+google-noto-sans-georgian-fonts.noarch : Sans Georgian font
+google-noto-sans-gothic-fonts.noarch : Sans Gothic font
+google-noto-sans-gujarati-fonts.noarch : Sans Gujarati font
+google-noto-sans-gujarati-ui-fonts.noarch : Sans Gujarati UI font
+google-noto-sans-gurmukhi-fonts.noarch : Sans Gurmukhi font
+google-noto-sans-gurmukhi-ui-fonts.noarch : Sans Gurmukhi UI font
+google-noto-sans-hanunoo-fonts.noarch : Sans Hanunoo font
+google-noto-sans-hebrew-fonts.noarch : Sans Hebrew font
+google-noto-sans-imperial-aramaic-fonts.noarch : Sans Imperial Aramaic font
+google-noto-sans-inscriptional-pahlavi-fonts.noarch : Sans Inscriptional Pahlavi
+                                                    : font
+google-noto-sans-inscriptional-parthian-fonts.noarch : Sans Inscriptional
+                                                     : Parthian font
+google-noto-sans-japanese-fonts.noarch : Sans Japanese font
+google-noto-sans-javanese-fonts.noarch : Sans Javanese font
+google-noto-sans-kaithi-fonts.noarch : Sans Kaithi font
+google-noto-sans-kannada-fonts.noarch : Sans Kannada font
+google-noto-sans-kannada-ui-fonts.noarch : Sans Kannada UI font
+google-noto-sans-kayah-li-fonts.noarch : Sans Kayah Li font
+google-noto-sans-kharoshthi-fonts.noarch : Sans Kharoshthi font
+google-noto-sans-khmer-fonts.noarch : Sans Khmer font
+google-noto-sans-khmer-ui-fonts.noarch : Sans Khmer UI font
+google-noto-sans-korean-fonts.noarch : Sans Korean font
+google-noto-sans-lao-fonts.noarch : Sans Lao font
+google-noto-sans-lao-ui-fonts.noarch : Sans Lao UI font
+google-noto-sans-lepcha-fonts.noarch : Sans Lepcha font
+google-noto-sans-limbu-fonts.noarch : Sans Limbu font
+google-noto-sans-linear-b-fonts.noarch : Sans Linear B font
+google-noto-sans-lisu-fonts.noarch : Sans Lisu font
+google-noto-sans-lycian-fonts.noarch : Sans Lycian font
+google-noto-sans-lydian-fonts.noarch : Sans Lydian font
+google-noto-sans-malayalam-fonts.noarch : Sans Malayalam font
+google-noto-sans-malayalam-ui-fonts.noarch : Sans Malayalam UI font
+google-noto-sans-mandaic-fonts.noarch : Sans Mandaic font
+google-noto-sans-meetei-mayek-fonts.noarch : Sans Meetei Mayek font
+google-noto-sans-mongolian-fonts.noarch : Sans Mongolian font
+google-noto-sans-myanmar-fonts.noarch : Sans Myanmar font
+google-noto-sans-myanmar-ui-fonts.noarch : Sans Myanmar UI font
+google-noto-sans-new-tai-lue-fonts.noarch : Sans New Tai Lue font
+google-noto-sans-nko-fonts.noarch : Sans NKo font
+google-noto-sans-ogham-fonts.noarch : Sans Ogham font
+google-noto-sans-ol-chiki-fonts.noarch : Sans Ol Chiki font
+google-noto-sans-old-italic-fonts.noarch : Sans Old Italic font
+google-noto-sans-old-persian-fonts.noarch : Sans Old Persian font
+google-noto-sans-old-south-arabian-fonts.noarch : Sans Old South Arabian font
+google-noto-sans-old-turkic-fonts.noarch : Sans Old Turkic font
+google-noto-sans-osmanya-fonts.noarch : Sans Osmanya font
+google-noto-sans-phags-pa-fonts.noarch : Sans Phags Pa font
+google-noto-sans-phoenician-fonts.noarch : Sans Phoenician font
+google-noto-sans-rejang-fonts.noarch : Sans Rejang font
+google-noto-sans-runic-fonts.noarch : Sans Runic font
+google-noto-sans-samaritan-fonts.noarch : Sans Samaritan font
+google-noto-sans-saurashtra-fonts.noarch : Sans Saurashtra font
+google-noto-sans-shavian-fonts.noarch : Sans Shavian font
+google-noto-sans-simplified-chinese-fonts.noarch : Sans Simplified Chinese font
+google-noto-sans-sinhala-fonts.noarch : Sans Sinhala font
+google-noto-sans-sundanese-fonts.noarch : Sans Sundanese font
+google-noto-sans-syloti-nagri-fonts.noarch : Sans Syloti Nagri font
+google-noto-sans-symbols-fonts.noarch : Sans Symbols font
+google-noto-sans-syriac-eastern-fonts.noarch : Sans Syriac Eastern font
+google-noto-sans-syriac-estrangela-fonts.noarch : Sans Syriac Estrangela font
+google-noto-sans-syriac-western-fonts.noarch : Sans Syriac Western font
+google-noto-sans-tagalog-fonts.noarch : Sans Tagalog font
+google-noto-sans-tagbanwa-fonts.noarch : Sans Tagbanwa font
+google-noto-sans-tai-le-fonts.noarch : Sans Tai Le font
+google-noto-sans-tai-tham-fonts.noarch : Sans Tai Tham font
+google-noto-sans-tai-viet-fonts.noarch : Sans Tai Viet font
+google-noto-sans-tamil-fonts.noarch : Sans Tamil font
+google-noto-sans-tamil-ui-fonts.noarch : Sans Tamil UI font
+google-noto-sans-telugu-fonts.noarch : Sans Telugu font
+google-noto-sans-telugu-ui-fonts.noarch : Sans Telugu UI font
+google-noto-sans-thaana-fonts.noarch : Sans Thaana font
+google-noto-sans-thai-fonts.noarch : Sans Thai font
+google-noto-sans-thai-ui-fonts.noarch : Sans Thai UI font
+google-noto-sans-tifinagh-fonts.noarch : Sans Tifinagh font
+google-noto-sans-traditional-chinese-fonts.noarch : Sans Traditional Chinese
+                                                  : font
+google-noto-sans-ugaritic-fonts.noarch : Sans Ugaritic font
+google-noto-sans-ui-fonts.noarch : Sans UI font
+google-noto-sans-vai-fonts.noarch : Sans Vai font
+google-noto-sans-yi-fonts.noarch : Sans Yi font
+google-noto-serif-armenian-fonts.noarch : Serif Armenian font
+google-noto-serif-fonts.noarch : Serif font
+google-noto-serif-georgian-fonts.noarch : Serif Georgian font
+google-noto-serif-khmer-fonts.noarch : Serif Khmer font
+google-noto-serif-lao-fonts.noarch : Serif Lao font
+google-noto-serif-thai-fonts.noarch : Serif Thai font
+gr-fcdproplus.x86_64 : GNURadio support for FUNcube Dongle Pro+
+grive2.x86_64 : Google Drive client
+gshhg-gmt-nc4.noarch : Global Self-consistent Hierarchical High-resolution
+                     : Geography (GSHHG)
+gtest.x86_64 : Google C++ testing framework
+gtk-sharp2-gapi.x86_64 : Glib and GObject C source parser and C generator for
+                       : the creation and maintenance of managed bindings for
+                       : Mono and .NET
+guava.noarch : Google Core Libraries for Java
+gvfs.i686 : Backends for the gio framework in GLib
+gvfs.x86_64 : Backends for the gio framework in GLib
+gvfs-client.i686 : Client modules of backends for the gio framework in GLib
+gvfs-client.x86_64 : Client modules of backends for the gio framework in GLib
+hugs98-hgl.x86_64 : Haskell Graphics Library for Hugs98
+hunspell-en.noarch : English hunspell dictionaries
+hunspell-en-GB.noarch : UK English hunspell dictionaries
+hunspell-en-US.noarch : US English hunspell dictionaries
+hunspell-gl.noarch : Galician hunspell dictionaries
+hyphen-en.noarch : English hyphenation rules
+hyphen-gl.noarch : Galician hyphenation rules
+istack-commons.noarch : Common code for some Glassfish projects
+jakarta-taglibs-standard.noarch : An open-source implementation of the JSP
+                                : Standard Tag Library
+java-1.8.0-openjdk-javadoc-zip.noarch : OpenJDK 8 API documentation compressed
+                                      : in a single archive
+java-11-openjdk-javadoc-zip.i686 : OpenJDK 11 API documentation compressed in a
+                                 : single archive
+java-11-openjdk-javadoc-zip.x86_64 : OpenJDK 11 API documentation compressed in
+                                   : a single archive
+json-glib.i686 : Library for JavaScript Object Notation format
+json-glib.x86_64 : Library for JavaScript Object Notation format
+kde-l10n-British.noarch : British English support for KDE
+kdesdk-kmtrace.x86_64 : Assist with malloc debugging using glibc's "mtrace"
+                      : functionality
+kernel-headers.x86_64 : Header files for the Linux kernel for use by glibc
+keybinder.x86_64 : A library for registering global keyboard shortcuts
+keybinder3.i686 : A library for registering global keyboard shortcuts
+keybinder3.x86_64 : A library for registering global keyboard shortcuts
+lasso.i686 : Liberty Alliance Single Sign On
+lasso.x86_64 : Liberty Alliance Single Sign On
+lasso-python.x86_64 : Liberty Alliance Single Sign On (lasso) Python bindings
+latrace.i686 : LD_AUDIT feature frontend for glibc 2.4+
+latrace.x86_64 : LD_AUDIT feature frontend for glibc 2.4+
+leveldb.x86_64 : A fast and lightweight key/value database library by Google
+libGLEW.i686 : libGLEW
+libGLEW.x86_64 : libGLEW
+libGLEWmx.i686 : libGLEWmx
+libGLEWmx.x86_64 : libGLEWmx
+libappstream-glib.i686 : Library for AppStream metadata
+libappstream-glib.x86_64 : Library for AppStream metadata
+libappstream-glib-builder.i686 : Library and command line tools for building
+                               : AppStream metadata
+libappstream-glib-builder.x86_64 : Library and command line tools for building
+                                 : AppStream metadata
+libdvdnav.i686 : A library for reading DVD video discs based on Ogle code
+libdvdnav.x86_64 : A library for reading DVD video discs based on Ogle code
+libdvdread.i686 : A library for reading DVD video discs based on Ogle code
+libdvdread.x86_64 : A library for reading DVD video discs based on Ogle code
+libgudev1.i686 : Libraries for adding libudev support to applications that use
+               : glib
+libgudev1.x86_64 : Libraries for adding libudev support to applications that use
+                 : glib
+libgudev1-devel.i686 : Header files for adding libudev support to applications
+                     : that use glib
+libgudev1-devel.x86_64 : Header files for adding libudev support to applications
+                       : that use glib
+libgusb.i686 : GLib wrapper around libusb1
+libgusb.x86_64 : GLib wrapper around libusb1
+libhif-devel.i686 : GLib Libraries and headers for libhif
+libhif-devel.x86_64 : GLib Libraries and headers for libhif
+libical-glib.i686 : GObject wrapper for libical library
+libical-glib.x86_64 : GObject wrapper for libical library
+libmbim-devel.i686 : Header files for adding MBIM support to applications that
+                   : use glib
+libmbim-devel.x86_64 : Header files for adding MBIM support to applications that
+                     : use glib
+libnice.i686 : GLib ICE implementation
+libnice.x86_64 : GLib ICE implementation
+libqmi-devel.i686 : Header files for adding QMI support to applications that use
+                  : glib
+libqmi-devel.x86_64 : Header files for adding QMI support to applications that
+                    : use glib
+libreoffice-help-gl.x86_64 : Galician help for LibreOffice
+libreoffice-langpack-en.x86_64 : English language pack for LibreOffice
+libreoffice-langpack-gl.x86_64 : Galician language pack for LibreOffice
+libzapojit.i686 : GLib/GObject wrapper for the SkyDrive and Hotmail REST APIs
+libzapojit.x86_64 : GLib/GObject wrapper for the SkyDrive and Hotmail REST APIs
+marble.x86_64 : Virtual globe and world atlas
+mathgl.x86_64 : Cross-platform library for making high-quality scientific
+              : graphics
+mote.noarch : A MeetBot log wrangler, providing a user-friendly interface for
+            : Fedora's logs
+mythes-en.noarch : English thesaurus
+nodejs-dtree.noarch : Command-line tool to view the dependency tree of any
+                    : single js file
+nodejs-duplexify.noarch : Turn a writeable and readable stream into a single
+                        : streams2 duplex stream
+nodejs-fileset.noarch : A wrapper around glob and minimatch for Node.js
+nodejs-fstream-ignore.noarch : A file stream object that can ignore files by
+                             : globs
+nodejs-full-i18n.x86_64 : Non-English locale data for Node.js
+nodejs-gaze.noarch : A globbing fs.watch wrapper built from parts of other watch
+                   : libraries
+nodejs-jsonify.noarch : JSON without touching any globals
+nodejs-load-grunt-tasks.noarch : Load multiple grunt tasks using globbing
+                               : patterns
+nodejs-minimatch.noarch : JavaScript glob matcher
+nodejs-stream-combiner.noarch : Turn a pipeline into a single stream
+nodejs-stream-reduce.noarch : Reduce stream data to a single value
+nodejs-stream-to-array.noarch : Concatenate a readable stream's data into a
+                              : single array
+nordugrid-arc6-plugins-gridftp.x86_64 : ARC Globus dependent DMCs
+nss-mdns.x86_64 : glibc plugin for .local name resolution
+openconnect.x86_64 : Open client for Cisco AnyConnect VPN, Juniper Network
+                   : Connect/Pulse, PAN GlobalProtect
+opencsg.x86_64 : Library for Constructive Solid Geometry using OpenGL
+opengl-games-utils.noarch : Utilities to check proper 3d support before
+                          : launching 3d games
+openstv.noarch : Single transferable vote and instant runoff voting software
+perl-Archive-Any.noarch : Single interface to deal with file archives
+perl-Crypt-SSLeay.x86_64 : Crypt::SSLeay - OpenSSL glue that provides LWP https
+                         : support
+perl-Data-UUID.x86_64 : Globally/Universally Unique Identifiers (GUIDs/UUIDs)
+perl-ExtUtils-XSBuilder.noarch : Modules that parse C header files and create XS
+                               : glue code
+perl-Glib-Object-Introspection.x86_64 : Dynamically create Perl language
+                                      : bindings
+perl-Inline-Files.noarch : Allows for multiple inline files in a single perl
+                         : file
+perl-Log-LogLite.noarch : Create simple logs
+perl-MLDBM.noarch : Store multi-level hash structure in single level tied hash
+perl-MooseX-Types-Stringlike.noarch : Moose type constraints for strings or
+                                    : string-like objects
+perl-Net-INET6Glue.noarch : Make common modules IPv6 ready by hotpatching
+perl-Net-SSLGlue.noarch : Add/extend SSL support for common perl modules
+perl-Object-MultiType.noarch : Perl Objects as Hash, Array, Scalar, Code and
+                             : Glob at the same time
+perl-Plack.noarch : Perl Superglue for Web frameworks and Web Servers (PSGI
+                  : toolkit)
+perl-Regexp-Assemble.noarch : Assemble multiple Regular Expressions into a
+                            : single RE
+perl-Time-Duration.noarch : Time-Duration - rounded or exact English expression
+                          : of durations
+php-gliph.noarch : A graph library for PHP
+php-pecl-runkit.x86_64 : Mangle with user defined functions and classes
+pidgin-window-merge.x86_64 : Pidgin plugin for single window mode
+pnglite.x86_64 : A lightweight C library for loading PNG images
+protobuf.i686 : Protocol Buffers - Google's data interchange format
+protobuf.x86_64 : Protocol Buffers - Google's data interchange format
+protobuf-c.i686 : C bindings for Google's Protocol Buffers
+protobuf-c.x86_64 : C bindings for Google's Protocol Buffers
+protobuf-emacs.x86_64 : Emacs mode for Google Protocol Buffers descriptions
+protobuf-emacs-el.x86_64 : Elisp source files for Google protobuf Emacs mode
+protobuf-python.x86_64 : Python bindings for Google Protocol Buffers
+protobuf-vim.x86_64 : Vim syntax highlighting for Google Protocol Buffers
+                    : descriptions
+python-django-compressor.noarch : Compresses linked and inline JavaScript or CSS
+                                : into single cached files
+python-nmrglue.noarch : Python module for processing NMR data
+python-pyglet.noarch : A cross-platform windowing and multimedia library for
+                     : Python
+python-re2.x86_64 : Python wrapper for Google's RE2 library
+python2-PyDrive.noarch : A wrapper library of google-api-python-client for
+                       : Google Drive API tasks
+python2-vecrec.noarch : 2D vector and rectangle library
+python34-vecrec.noarch : 2D vector and rectangle library
+python36-vecrec.noarch : 2D vector and rectangle library
+qtsingleapplication.x86_64 : Qt library to start applications only once per user
+qtsingleapplication-qt5.x86_64 : Qt5 library to start applications only once per
+                               : user
+qtsinglecoreapplication.x86_64 : Qt library to start applications only once per
+                               : user
+qtsinglecoreapplication-qt5.x86_64 : Qt library to start applications only once
+                                   : per user (Qt5)
+resource-agents-gcp.x86_64 : Google Cloud Platform resource agents
+rtl-sdr.x86_64 : SDR utilities for Realtek RTL2832 based DVB-T dongles
+rubygem-net-ssh-multi.noarch : Control multiple Net::SSH connections via a
+                             : single interface
+spglib.x86_64 : C library for finding and handling crystal symmetries
+spice-glib.i686 : A GObject for communicating with Spice servers
+spice-glib.x86_64 : A GObject for communicating with Spice servers
+stb_rect_pack-devel.x86_64 : Simple 2D rectangle packer with decent quality
+stix-math-fonts.noarch : Scientific and engineering fonts, PUA glyphs
+system-storage-manager.noarch : A single tool to manage your storage
+tagainijisho-dic-en.noarch : Tagaini Jisho Japanese/English dictionary
+taglib.i686 : Audio Meta-Data Library
+taglib.x86_64 : Audio Meta-Data Library
+taglib-sharp.x86_64 : Provides tag reading and writing for Banshee and other
+                    : Mono apps
+taglib-sharp-devel.x86_64 : Provides tag reading and writing for Banshee and
+                          : other Mono apps
+taskjuggler.x86_64 : Project management tool
+tesseract-langpack-gle.noarch : Irish language data for tesseract
+tesseract-langpack-glg.noarch : Galician language data for tesseract
+tesseract-langpack-tgl.noarch : Tagalog language data for tesseract
+texlive-polyglossia.noarch : Modern multilingual typesetting with XeLaTeX
+texlive-realscripts.noarch : Access OpenType subscript and superscript glyphs
+texlive-xunicode.noarch : Generate Unicode characters from accented glyphs
+udav.x86_64 : Viewer and editor for mathgl graphs
+unifont.x86_64 : Tools and glyph descriptions in a very simple text format
+unifont-fonts.noarch : Unicode font with a glyph for every visible BMP code
+                     : point
+unique.x86_64 : Single instance support for applications
+unique3.i686 : Single instance support for applications
+unique3.x86_64 : Single instance support for applications
+upower-devel-docs.noarch : Developer documentation for for libupower-glib
+vim-gtk-syntax.noarch : Vim syntax highlighting for GLib, Gtk+, Gstreamer, and
+                      : more
+waffle.x86_64 : Platform independent GL API layer
+wordnet.i686 : A lexical database for the English language
+wordnet.x86_64 : A lexical database for the English language
+words.noarch : A dictionary of English words for the /usr/share/dict directory
+
+  Name and summary matches only, use "search all" for everything.
