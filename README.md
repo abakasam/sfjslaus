@@ -1,4 +1,4 @@
-
+ 
 centos 7.2.1511
   c++
   xlib
@@ -9,6 +9,15 @@ centos 7.2.1511
   libpng
   mesa
   mesa-*
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
     https://www.youtube.com/watch?v=XpBGwZNyUh0&list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-&index=1
     opengl install
